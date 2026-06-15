@@ -18,12 +18,12 @@ export default function HoursSection() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          <TimeCard title={t('outdoor')} time={t('outdoorTime')} iconKey="outdoor" />
-          <TimeCard title={t('lighthouse')} time={t('summer')} timeValue={t('summerTime')} iconKey="lighthouse" />
+          <TimeCard title={t('parkHours')} time={t('parkHoursTime')} iconKey="outdoor" />
+          <TimeCard title={t('closedDays')} time={t('closed')} timeValue={t('closedTime')} iconKey="lighthouse" />
         </div>
 
         <div className="mb-6">
-          <TimeCard title={t('winter')} time={t('winterTime')} iconKey="calendar" />
+          <TimeCard title={t('bestTime')} time={t('bestTimeDesc')} iconKey="calendar" />
         </div>
 
         <div

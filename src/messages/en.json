@@ -15,7 +15,7 @@
     "title": "Expo Parque de los Dinosaurios",
     "subtitle": "Veracruz · Mexico",
     "rating": "4.7",
-    "reviewCount": "9,856",
+    "reviewCount": "9,859",
     "hours": "Theme Park",
     "openMaps": "View Location"
   },
@@ -95,35 +95,35 @@
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Park Hours",
-    "outdoorTime": "Thursday-Sunday: 10:00–22:00",
-    "lighthouse": "Monday-Wednesday",
-    "summer": "Closed",
-    "summerTime": "Closed every Monday, Tuesday, Wednesday",
-    "winter": "Best Time to Visit",
-    "winterTime": "Afternoon visits recommended, cooler weather",
     "warning": "Important Notes",
     "warningTime": "Recommended to verify latest opening information before visiting",
-    "tip": "Open Thursday to Sunday, please plan your trip accordingly"
+    "tip": "Open Thursday to Sunday, please plan your trip accordingly",
+    "parkHours": "Park Hours",
+    "parkHoursTime": "Thursday-Sunday: 10:00–22:00",
+    "closedDays": "Monday-Wednesday",
+    "closed": "Closed",
+    "closedTime": "Closed every Monday, Tuesday, Wednesday",
+    "bestTime": "Best Time to Visit",
+    "bestTimeDesc": "Afternoon visits recommended, cooler weather"
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Adult Tickets",
-    "outdoorPrice": "Inquire on-site",
-    "lighthouse": "Child Tickets",
-    "adults": "Student Tickets",
-    "adultsPrice": "Inquire on-site",
-    "students": "Group Tickets",
-    "studentsPrice": "Discounts available",
-    "children": "Recommendations",
-    "childrenPrice": "Online ticket purchase may have discounts",
-    "card": "Additional Services",
-    "cardPrice": "Dinosaur-themed souvenirs available"
+    "adultsLabel": "Adult Tickets",
+    "adultsPriceValue": "Inquire on-site",
+    "childrenLabel": "Child Tickets",
+    "studentsLabel": "Student Tickets",
+    "studentsPriceValue": "Inquire on-site",
+    "groupsLabel": "Group Tickets",
+    "groupsPriceValue": "Discounts available",
+    "tipsLabel": "Recommendations",
+    "tipsPriceValue": "Online ticket purchase may have discounts",
+    "additionalLabel": "Additional Services",
+    "additionalPriceValue": "Dinosaur-themed souvenirs available"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Orizaba Airport. From there, take a bus or taxi to the park.",
+    "airportDesc": "The nearest major airport is Veracruz International Airport (Aeropuerto Internacional General Heriberto Jara, Code: VER), about 1.5 to 2 hours drive from Orizaba. Upon arrival, you can rent a car or take a long-distance bus (such as ADO bus) to Orizaba city, then take a taxi to the park.",
     "selfDrive": "Driving",
     "selfDriveDesc": "The park is located in Orizaba. Use navigation and check for parking nearby.",
     "bus": "Public Transport",
@@ -251,7 +251,7 @@
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
     "officialManagement": {
       "title": "About Expo Parque de los Dinosaurios",
-      "text": "Expo Parque de los Dinosaurios is a famous theme park in Orizaba, featuring realistic dinosaur models and rich interactive experiences, an ideal choice for family outings."
+      "text": "Expo Parque de los Dinosaurios is a famous theme park in Orizaba, featuring realistic dinosaur models and rich interactive experiences, an ideal choice for family outings. The park is managed by the Orizaba City Government (Ayuntamiento de Orizaba)."
     }
   },
   "privacy": {

@@ -4,7 +4,7 @@
     "description": "探索墨西哥韦拉克鲁斯州奥里萨巴的 Expo Parque de los Dinosaurios（恐龙主题公园）。体验令人惊叹的恐龙展览和互动体验。"
   },
   "header": {
-    "brand": "Expo 恐龙公园",
+    "brand": "Expo Parque de los Dinosaurios",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -15,7 +15,7 @@
     "title": "Expo Parque de los Dinosaurios",
     "subtitle": "韦拉克鲁斯州 · 墨西哥",
     "rating": "4.7",
-    "reviewCount": "9,856",
+    "reviewCount": "9,859",
     "hours": "主题公园",
     "openMaps": "查看位置"
   },
@@ -95,35 +95,35 @@
   },
   "hours": {
     "title": "开放时间",
-    "outdoor": "公园开放时间",
-    "outdoorTime": "周四至周日: 10:00–22:00",
-    "lighthouse": "周一至周三",
-    "summer": "休息日",
-    "summerTime": "每周一、二、三闭园",
-    "winter": "最佳游览时间",
-    "winterTime": "建议下午前往，天气较为凉爽",
     "warning": "重要提示",
     "warningTime": "建议在参观前核实最新开放信息",
-    "tip": "周四至周日开放，请合理安排行程"
+    "tip": "周四至周日开放，请合理安排行程",
+    "parkHours": "公园开放时间",
+    "parkHoursTime": "周四至周日: 10:00–22:00",
+    "closedDays": "周一至周三",
+    "closed": "休息日",
+    "closedTime": "每周一、二、三闭园",
+    "bestTime": "最佳游览时间",
+    "bestTimeDesc": "建议下午前往，天气较为凉爽"
   },
   "tickets": {
     "title": "门票信息",
-    "outdoor": "成人票",
-    "outdoorPrice": "现场咨询",
-    "lighthouse": "儿童票",
-    "adults": "学生票",
-    "adultsPrice": "现场咨询",
-    "students": "团体票",
-    "studentsPrice": "优惠可用",
-    "children": "建议",
-    "childrenPrice": "提前在线购票可能享有折扣",
-    "card": "附加服务",
-    "cardPrice": "可购买恐龙主题纪念品"
+    "adultsLabel": "成人票",
+    "adultsPriceValue": "现场咨询",
+    "childrenLabel": "儿童票",
+    "studentsLabel": "学生票",
+    "studentsPriceValue": "现场咨询",
+    "groupsLabel": "团体票",
+    "groupsPriceValue": "优惠可用",
+    "tipsLabel": "建议",
+    "tipsPriceValue": "提前在线购票可能享有折扣",
+    "additionalLabel": "附加服务",
+    "additionalPriceValue": "可购买恐龙主题纪念品"
   },
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "最近机场：奥里萨巴机场。从那里可以乘坐公交或出租车前往公园。",
+    "airportDesc": "距离最近的主要机场是韦拉克鲁斯国际机场 (Aeropuerto Internacional General Heriberto Jara, 代码: VER)，距离奥里萨巴约 1.5 至 2 小时车程。抵达后可租车或乘坐长途大巴（如 ADO 巴士）前往奥里萨巴市，随后打车前往公园。",
     "selfDrive": "自驾前往",
     "selfDriveDesc": "公园位于奥里萨巴，建议使用导航前往。周边有停车场。",
     "bus": "公共交通",
@@ -251,7 +251,7 @@
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
     "officialManagement": {
       "title": "关于 Expo Parque de los Dinosaurios",
-      "text": "Expo Parque de los Dinosaurios 是奥里萨巴的著名主题公园，拥有逼真的恐龙模型和丰富的互动体验，是家庭出游的理想选择。"
+      "text": "Expo Parque de los Dinosaurios 是奥里萨巴的著名主题公园，拥有逼真的恐龙模型和丰富的互动体验，是家庭出游的理想选择。该公园由奥里萨巴市政府（Ayuntamiento de Orizaba）管理。"
     }
   },
   "privacy": {

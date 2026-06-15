@@ -15,7 +15,7 @@
     "title": "Expo Parque de los Dinosaurios",
     "subtitle": "Veracruz · México",
     "rating": "4.7",
-    "reviewCount": "9,856",
+    "reviewCount": "9,859",
     "hours": "Parque Temático",
     "openMaps": "Ver Ubicación"
   },
@@ -95,35 +95,35 @@
   },
   "hours": {
     "title": "Horarios de Apertura",
-    "outdoor": "Horario del Parque",
-    "outdoorTime": "Jueves a domingo: 10:00–22:00",
-    "lighthouse": "Lunes a miércoles",
-    "summer": "Cerrado",
-    "summerTime": "Cerrado todos los lunes, martes, miércoles",
-    "winter": "Mejor Época para Visitar",
-    "winterTime": "Visitas por la tarde recomendadas, clima más fresco",
     "warning": "Notas Importantes",
     "warningTime": "Se recomienda verificar la información más reciente de apertura antes de visitar",
-    "tip": "Abierto de jueves a domingo, por favor planifica tu viaje en consecuencia"
+    "tip": "Abierto de jueves a domingo, por favor planifica tu viaje en consecuencia",
+    "parkHours": "Horario del Parque",
+    "parkHoursTime": "Jueves a domingo: 10:00–22:00",
+    "closedDays": "Lunes a miércoles",
+    "closed": "Cerrado",
+    "closedTime": "Cerrado todos los lunes, martes, miércoles",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeDesc": "Visitas por la tarde recomendadas, clima más fresco"
   },
   "tickets": {
     "title": "Información de Entradas",
-    "outdoor": "Entradas de Adulto",
-    "outdoorPrice": "Consultar en sitio",
-    "lighthouse": "Entradas de Niño",
-    "adults": "Entradas de Estudiante",
-    "adultsPrice": "Consultar en sitio",
-    "students": "Entradas de Grupo",
-    "studentsPrice": "Descuentos disponibles",
-    "children": "Recomendaciones",
-    "childrenPrice": "La compra de entradas en línea puede tener descuentos",
-    "card": "Servicios Adicionales",
-    "cardPrice": "Recuerdos con tema de dinosaurios disponibles"
+    "adultsLabel": "Entradas de Adulto",
+    "adultsPriceValue": "Consultar en sitio",
+    "childrenLabel": "Entradas de Niño",
+    "studentsLabel": "Entradas de Estudiante",
+    "studentsPriceValue": "Consultar en sitio",
+    "groupsLabel": "Entradas de Grupo",
+    "groupsPriceValue": "Descuentos disponibles",
+    "tipsLabel": "Recomendaciones",
+    "tipsPriceValue": "La compra de entradas en línea puede tener descuentos",
+    "additionalLabel": "Servicios Adicionales",
+    "additionalPriceValue": "Recuerdos con tema de dinosaurios disponibles"
   },
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "Aeropuerto más cercano: Aeropuerto de Orizaba. Desde allí, toma un autobús o taxi al parque.",
+    "airportDesc": "El aeropuerto principal más cercano es el Aeropuerto Internacional de Veracruz (Aeropuerto Internacional General Heriberto Jara, Código: VER), a unas 1.5 a 2 horas en coche de Orizaba. Al llegar, puedes alquilar un coche o tomar un autobús de larga distancia (como el autobús ADO) hasta la ciudad de Orizaba, luego tomar un taxi al parque.",
     "selfDrive": "En Coche",
     "selfDriveDesc": "El parque está ubicado en Orizaba. Usa navegación y busca estacionamiento cercano.",
     "bus": "Transporte Público",
@@ -251,7 +251,7 @@
     "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
     "officialManagement": {
       "title": "Acerca de Expo Parque de los Dinosaurios",
-      "text": "Expo Parque de los Dinosaurios es un famoso parque temático en Orizaba, con modelos de dinosaurios realistas y ricas experiencias interactivas, una opción ideal para excursiones familiares."
+      "text": "Expo Parque de los Dinosaurios es un famoso parque temático en Orizaba, con modelos de dinosaurios realistas y ricas experiencias interactivas, una opción ideal para excursiones familiares. El parque es administrado por el Ayuntamiento de Orizaba."
     }
   },
   "privacy": {

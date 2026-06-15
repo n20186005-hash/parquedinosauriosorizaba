@@ -34,9 +34,9 @@ export default function TicketsSection() {
               </div>
               <div>
                 <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                  {t('outdoor')}
+                  {t('adultsLabel')}
                 </h3>
-                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('outdoorPrice')}</p>
+                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('adultsPriceValue')}</p>
               </div>
             </div>
           </div>
@@ -57,13 +57,13 @@ export default function TicketsSection() {
                 </svg>
               </div>
               <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                {t('lighthouse')}
+                {t('childrenLabel')}
               </h3>
             </div>
             <div className="space-y-3">
-              <PriceRow label={t('adults')} value={t('adultsPrice')} />
-              <PriceRow label={t('students')} value={t('studentsPrice')} />
-              <PriceRow label={t('children')} value={t('childrenPrice')} isFree />
+              <PriceRow label={t('studentsLabel')} value={t('studentsPriceValue')} />
+              <PriceRow label={t('groupsLabel')} value={t('groupsPriceValue')} />
+              <PriceRow label={t('tipsLabel')} value={t('tipsPriceValue')} isFree />
             </div>
           </div>
         </div>
@@ -78,8 +78,8 @@ export default function TicketsSection() {
             <line x1="2" y1="10" x2="22" y2="10"/>
           </svg>
           <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('card')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('cardPrice')}</p>
+            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('additionalLabel')}</p>
+            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('additionalPriceValue')}</p>
           </div>
         </div>
       </div>
