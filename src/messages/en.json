@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Expo Parque de los Dinosaurios | Dinosaur Theme Park",
+    "description": "Explore Expo Parque de los Dinosaurios in Orizaba, Veracruz, Mexico. Experience amazing dinosaur exhibits and interactive experiences."
+  },
+  "header": {
+    "brand": "Expo Dinosaur Park",
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Expo Parque de los Dinosaurios",
+    "subtitle": "Veracruz · Mexico",
+    "rating": "4.7",
+    "reviewCount": "9,856",
+    "hours": "Theme Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Expo Parque de los Dinosaurios",
+    "description": "Expo Parque de los Dinosaurios is located in Orizaba, Veracruz, Mexico. It is an amazing theme park featuring realistic dinosaur models, interactive exhibits, and family-friendly entertainment facilities. Here, you can travel back to the Jurassic era and experience the charm of dinosaurs up close.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Open Thursday to Sunday, plan your trip in advance",
+        "Visit realistic dinosaur models and interactive exhibits",
+        "Great for family visits, allow 3-4 hours",
+        "Bring sun protection and water, mostly outdoor activities"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Realistic Dinosaur Models: Various sized dinosaur models displayed throughout the park, lifelike and impressive.",
+        "Interactive Experiences: Participate in archaeological digs, dinosaur egg hatching, and other interactive activities.",
+        "Educational Value: Perfect for children to learn about dinosaurs, combining education with entertainment.",
+        "Prime Location: Located in Orizaba with convenient transportation and many nearby attractions."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Expo Parque de los Dinosaurios and experience the charm of the prehistoric world.",
+    "steps": [
+      "Arrive at the park entrance in the morning and get a map and visitor guide at the visitor center.",
+      "Visit the main exhibition area and admire various realistic large dinosaur models.",
+      "Participate in the interactive experience zone, try archaeological digging and dinosaur knowledge quizzes.",
+      "Have a meal at the rest area in the park, then continue visiting other exhibition areas or buy souvenirs."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Prepare sun protection, most areas in the park are outdoors.",
+      "Wear comfortable shoes for long walks.",
+      "Bring a camera to capture wonderful dinosaur models and interactive moments."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Expo Parque de los Dinosaurios",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Educational Significance",
+        "content": "Expo Parque de los Dinosaurios is a theme park that combines entertainment with education. Through realistic dinosaur models and interactive exhibits, visitors especially children can learn about the history and knowledge of the dinosaur era."
+      },
+      {
+        "id": "nature",
+        "title": "Interactive Experiences",
+        "content": "The park offers various interactive experience programs, including simulated archaeological digging, dinosaur egg hatching experiences, etc., allowing visitors to personally experience the fun of exploring the prehistoric world."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Stroll among realistic dinosaur models and feel the shock of the prehistoric world. This is an unforgettable family outing experience, allowing you and your children to get close to the dinosaur world."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Expo Parque de los Dinosaurios",
+    "type": "Attraction Type",
+    "typeValue": "Theme Park",
+    "country": "Country",
+    "countryValue": "Mexico",
+    "city": "City",
+    "cityValue": "Orizaba, Veracruz",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., Mexico",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VW46+WV Orizaba, Veracruz, Mexico"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Hours",
+    "outdoorTime": "Thursday-Sunday: 10:00–22:00",
+    "lighthouse": "Monday-Wednesday",
+    "summer": "Closed",
+    "summerTime": "Closed every Monday, Tuesday, Wednesday",
+    "winter": "Best Time to Visit",
+    "winterTime": "Afternoon visits recommended, cooler weather",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest opening information before visiting",
+    "tip": "Open Thursday to Sunday, please plan your trip accordingly"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Adult Tickets",
+    "outdoorPrice": "Inquire on-site",
+    "lighthouse": "Child Tickets",
+    "adults": "Student Tickets",
+    "adultsPrice": "Inquire on-site",
+    "students": "Group Tickets",
+    "studentsPrice": "Discounts available",
+    "children": "Recommendations",
+    "childrenPrice": "Online ticket purchase may have discounts",
+    "card": "Additional Services",
+    "cardPrice": "Dinosaur-themed souvenirs available"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Orizaba Airport. From there, take a bus or taxi to the park.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The park is located in Orizaba. Use navigation and check for parking nearby.",
+    "bus": "Public Transport",
+    "busDesc": "Take public transportation to Orizaba, then take a taxi or local bus to the park.",
+    "intercity": "Local Transport",
+    "intercityDesc": "From downtown Orizaba, take a taxi or local bus to the park.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Taxis or driving recommended, convenient transportation around the park.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Expo Parque de los Dinosaurios is an excellent place to experience the charm of the prehistoric world, afternoon visits recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Expo Parque de los Dinosaurios",
+    "captions": [
+      "Park panoramic view",
+      "Dinosaur models",
+      "Interactive exhibits",
+      "Park scenery",
+      "Dinosaur statues",
+      "Theme landscapes",
+      "Family fun",
+      "Dinosaur world",
+      "Park atmosphere",
+      "Featured exhibits",
+      "Dinosaur knowledge",
+      "Full park view",
+      "Model details",
+      "Theme decorations",
+      "Entertainment facilities",
+      "Park landscapes",
+      "Dinosaur theme"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "A fun and educational place. The dinosaur models are very realistic, children love it, highly recommended for all family visitors."
+      },
+      {
+        "name": "María Elena",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Amazing theme park. The dinosaur models are very realistic, interactive experiences are fun, a must-visit place in Orizaba."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Very interesting place to learn about dinosaur knowledge. Afternoon visits recommended when the weather is cooler."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Perfect for family outings. The dinosaur models are impressive, interactive programs are fun, definitely worth experiencing."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Interesting outdoor experience. You can see dinosaur models up close, bring sun protection."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Hidden gem of Orizaba. Expo Parque de los Dinosaurios is children's favorite, definitely bring family to experience."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Unforgettable experience. The dinosaur models are very realistic, children learned a lot, very worth visiting."
+      },
+      {
+        "name": "Carlos Rivera",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Great place for family outings. The dinosaur theme is very interesting, allow enough time to enjoy all programs."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., Mexico",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Expo Parque de los Dinosaurios. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Mexico National Tourism Board",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretary of Tourism of Mexico",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "secturver": {
+        "name": "Secretary of Tourism of Veracruz",
+        "url": "https://veracruz.mx/"
+      },
+      "orizaba": {
+        "name": "Orizaba City Government",
+        "url": "https://www.orizaba.gob.mx/"
+      },
+      "orizabatravel": {
+        "name": "Orizaba Magical Town Official Travel Guide",
+        "url": "https://www.orizaba.travel/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "officialManagement": {
+      "title": "About Expo Parque de los Dinosaurios",
+      "text": "Expo Parque de los Dinosaurios is a famous theme park in Orizaba, featuring realistic dinosaur models and rich interactive experiences, an ideal choice for family outings."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "historyTimeline": {
+    "title": "Park Development Timeline",
+    "items": [
+      {
+        "year": "Early Establishment",
+        "title": "Park Foundation",
+        "plaque": "Theme Park (Dinosaur Exhibits)",
+        "description": "Expo Parque de los Dinosaurios was established to provide visitors with entertainment venues to understand the dinosaur world. The park initially had basic dinosaur models and simple exhibition facilities."
+      },
+      {
+        "year": "Development Period",
+        "title": "Facility Improvement",
+        "plaque": "Interactive Experiences (Educational Entertainment)",
+        "description": "The park continuously developed, adding more realistic dinosaur models, interactive experience zones, and educational programs, becoming an important tourist attraction in Orizaba."
+      },
+      {
+        "year": "Modern Era",
+        "title": "Tourist Destination",
+        "plaque": "Family Entertainment (Tourism Landmark)",
+        "description": "With the development of tourism in Orizaba, Expo Parque de los Dinosaurios attracts more and more family visitors with its unique dinosaur theme and rich interactive experiences."
+      },
+      {
+        "year": "Future",
+        "title": "Continuous Development",
+        "plaque": "Expansion Plan (Future Planning)",
+        "description": "The park plans to continue expanding, adding more dinosaur models and interactive experience programs, committed to becoming one of the most popular family entertainment venues in Mexico."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start with the **main exhibition area** to admire realistic dinosaur models; then participate in activities such as archaeological digging in the **interactive experience zone**; next, have a meal and rest at the **rest area**; finally, select dinosaur-themed souvenirs at the **souvenir shop** to leave wonderful memories."
+  }
+}

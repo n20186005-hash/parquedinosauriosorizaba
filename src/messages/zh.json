@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Expo Parque de los Dinosaurios | 恐龙主题公园",
+    "description": "探索墨西哥韦拉克鲁斯州奥里萨巴的 Expo Parque de los Dinosaurios（恐龙主题公园）。体验令人惊叹的恐龙展览和互动体验。"
+  },
+  "header": {
+    "brand": "Expo 恐龙公园",
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Expo Parque de los Dinosaurios",
+    "subtitle": "韦拉克鲁斯州 · 墨西哥",
+    "rating": "4.7",
+    "reviewCount": "9,856",
+    "hours": "主题公园",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Expo Parque de los Dinosaurios",
+    "description": "Expo Parque de los Dinosaurios 位于墨西哥韦拉克鲁斯州奥里萨巴。这是一个令人惊叹的主题公园，拥有逼真的恐龙模型、互动展览和适合全家游玩的娱乐设施。在这里，您可以穿越回侏罗纪时代，近距离感受恐龙的魅力。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "周四至周日开放，建议提前规划行程",
+        "参观逼真的恐龙模型和互动展览",
+        "适合全家游玩，建议预留3-4小时",
+        "携带防晒用品和水，户外活动较多"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "逼真恐龙模型：公园内陈列着各种尺寸的恐龙模型，栩栩如生。",
+        "互动体验：可以参与考古挖掘、恐龙蛋孵化等互动项目。",
+        "教育价值：适合儿童学习恐龙知识，寓教于乐。",
+        "优越位置：位于奥里萨巴，交通便利，周边有众多景点。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索 Expo Parque de los Dinosaurios 的理想路线，感受史前世界的魅力。",
+    "steps": [
+      "上午抵达公园入口，在游客中心获取地图和游览指南。",
+      "参观主展区，欣赏各种逼真的大型恐龙模型。",
+      "参与互动体验区，体验考古挖掘和恐龙知识问答。",
+      "在公园内的休息区用餐，然后继续参观其他展区或购买纪念品。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "请准备防晒用品，公园内大部分区域为户外。",
+      "建议穿着舒适的鞋子，方便长时间步行。",
+      "可以携带相机，记录精彩的恐龙模型和互动瞬间。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Expo Parque de los Dinosaurios 的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "教育意义",
+        "content": "Expo Parque de los Dinosaurios 是一个结合娱乐与教育的主题公园。通过逼真的恐龙模型和互动展览，让游客特别是儿童了解恐龙时代的历史和知识。"
+      },
+      {
+        "id": "nature",
+        "title": "互动体验",
+        "content": "公园提供多种互动体验项目，包括模拟考古挖掘、恐龙蛋孵化体验等，让游客亲身感受探索史前世界的乐趣。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "在逼真的恐龙模型中漫步，感受史前世界的震撼。这是一次难忘的家庭出游体验，让您和孩子们近距离接触恐龙世界。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Expo Parque de los Dinosaurios",
+    "type": "景点类型",
+    "typeValue": "主题公园",
+    "country": "国家",
+    "countryValue": "墨西哥",
+    "city": "城市",
+    "cityValue": "奥里萨巴, 韦拉克鲁斯州",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., 墨西哥",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "VW46+WV 奥里萨巴, 墨西哥韦拉克鲁斯"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "公园开放时间",
+    "outdoorTime": "周四至周日: 10:00–22:00",
+    "lighthouse": "周一至周三",
+    "summer": "休息日",
+    "summerTime": "每周一、二、三闭园",
+    "winter": "最佳游览时间",
+    "winterTime": "建议下午前往，天气较为凉爽",
+    "warning": "重要提示",
+    "warningTime": "建议在参观前核实最新开放信息",
+    "tip": "周四至周日开放，请合理安排行程"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "outdoor": "成人票",
+    "outdoorPrice": "现场咨询",
+    "lighthouse": "儿童票",
+    "adults": "学生票",
+    "adultsPrice": "现场咨询",
+    "students": "团体票",
+    "studentsPrice": "优惠可用",
+    "children": "建议",
+    "childrenPrice": "提前在线购票可能享有折扣",
+    "card": "附加服务",
+    "cardPrice": "可购买恐龙主题纪念品"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "最近机场：奥里萨巴机场。从那里可以乘坐公交或出租车前往公园。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "公园位于奥里萨巴，建议使用导航前往。周边有停车场。",
+    "bus": "公共交通",
+    "busDesc": "可乘坐前往奥里萨巴的公共交通，然后打车或乘坐当地公交到达公园。",
+    "intercity": "当地交通",
+    "intercityDesc": "从奥里萨巴市中心可打车或乘坐当地公交到达公园。",
+    "cycling": "其他方式",
+    "cyclingDesc": "建议使用出租车或自驾，公园周边交通较为便利。",
+    "tips": "出行建议",
+    "tipsDesc": "Expo Parque de los Dinosaurios 是体验史前世界魅力的绝佳场所，建议下午前往。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Expo Parque de los Dinosaurios 的魅力风光",
+    "captions": [
+      "公园全景",
+      "恐龙模型",
+      "互动展览",
+      "公园风貌",
+      "恐龙雕像",
+      "主题景观",
+      "家庭游玩",
+      "恐龙世界",
+      "公园氛围",
+      "特色展区",
+      "恐龙知识",
+      "公园全貌",
+      "模型细节",
+      "主题装饰",
+      "娱乐设施",
+      "公园景观",
+      "恐龙主题"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "一个充满乐趣和教育意义的地方。恐龙模型非常逼真，孩子们非常喜欢，强烈推荐给所有家庭游客。"
+      },
+      {
+        "name": "María Elena",
+        "date": "2周前",
+        "rating": 5,
+        "text": "令人惊叹的主题公园。恐龙模型非常逼真，互动体验很有趣，这里是奥里萨巴必去的地方。"
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "非常有趣的地方，可以了解恐龙知识。建议下午前往，那时候天气比较凉爽。"
+      },
+      {
+        "name": "Ana Torres",
+        "date": "3周前",
+        "rating": 5,
+        "text": "非常适合家庭出游。恐龙模型令人印象深刻，互动项目很有趣，一定要来体验。"
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "有趣的户外体验。可以近距离观看恐龙模型，建议携带防晒用品。"
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "奥里萨巴的宝藏景点。Expo Parque de los Dinosaurios 是孩子们的最爱，一定要带家人来体验。"
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "3周前",
+        "rating": 5,
+        "text": "令人难忘的体验。恐龙模型非常逼真，孩子们学到了很多知识，非常值得一去。"
+      },
+      {
+        "name": "Carlos Rivera",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "很好的家庭出游场所。恐龙主题很有趣，建议预留足够的时间游玩所有项目。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., 墨西哥",
+    "openMaps": "在 Google Maps 查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Expo Parque de los Dinosaurios. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "墨西哥国家旅游局",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "墨西哥联邦政府旅游部",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "secturver": {
+        "name": "韦拉克鲁斯州旅游局",
+        "url": "https://veracruz.mx/"
+      },
+      "orizaba": {
+        "name": "奥里萨巴市政府",
+        "url": "https://www.orizaba.gob.mx/"
+      },
+      "orizabatravel": {
+        "name": "奥里萨巴魔法市镇官方旅游指南",
+        "url": "https://www.orizaba.travel/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "officialManagement": {
+      "title": "关于 Expo Parque de los Dinosaurios",
+      "text": "Expo Parque de los Dinosaurios 是奥里萨巴的著名主题公园，拥有逼真的恐龙模型和丰富的互动体验，是家庭出游的理想选择。"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "historyTimeline": {
+    "title": "公园发展时间线",
+    "items": [
+      {
+        "year": "建立初期",
+        "title": "公园奠基",
+        "plaque": "主题公园（恐龙展览）",
+        "description": "Expo Parque de los Dinosaurios 建立，旨在为游客提供了解恐龙世界的娱乐场所。公园最初拥有基础的恐龙模型和简单的展览设施。"
+      },
+      {
+        "year": "发展期",
+        "title": "设施完善",
+        "plaque": "互动体验（教育娱乐）",
+        "description": "公园不断发展，增加了更多逼真的恐龙模型、互动体验区和教育项目，成为了奥里萨巴重要的旅游景点。"
+      },
+      {
+        "year": "现代",
+        "title": "旅游胜地",
+        "plaque": "家庭娱乐（旅游地标）",
+        "description": "随着奥里萨巴旅游业的发展，Expo Parque de los Dinosaurios 凭借其独特的恐龙主题和丰富的互动体验，吸引了越来越多的家庭游客。"
+      },
+      {
+        "year": "未来",
+        "title": "持续发展",
+        "plaque": "扩建计划（未来规划）",
+        "description": "公园计划继续扩建，增加更多恐龙模型和互动体验项目，致力于成为墨西哥最受欢迎的家庭娱乐场所之一。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以先从**主展区**开始，欣赏逼真的恐龙模型；随后在**互动体验区**参与考古挖掘等活动；接着在**休息区**用餐和休息；最后在**纪念品商店**选购恐龙主题的纪念品，留下美好的回忆。"
+  }
+}

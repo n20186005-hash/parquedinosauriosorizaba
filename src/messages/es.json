@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Expo Parque de los Dinosaurios | Parque Temático de Dinosaurios",
+    "description": "Explora Expo Parque de los Dinosaurios en Orizaba, Veracruz, México. Experimenta increíbles exhibiciones de dinosaurios y experiencias interactivas."
+  },
+  "header": {
+    "brand": "Expo Parque de los Dinosaurios",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Expo Parque de los Dinosaurios",
+    "subtitle": "Veracruz · México",
+    "rating": "4.7",
+    "reviewCount": "9,856",
+    "hours": "Parque Temático",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora Expo Parque de los Dinosaurios",
+    "description": "Expo Parque de los Dinosaurios se encuentra en Orizaba, Veracruz, México. Es un parque temático increíble que cuenta con modelos realistas de dinosaurios, exhibiciones interactivas y instalaciones de entretenimiento para toda la familia. Aquí, puedes viajar de regreso a la era Jurásica y experimentar el encanto de los dinosaurios de cerca.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "Abierto de jueves a domingo, planifica tu viaje con anticipación",
+        "Visita los modelos realistas de dinosaurios y las exhibiciones interactivas",
+        "Ideal para visitas familiares, permite 3-4 horas",
+        "Trae protección solar y agua, la mayoría son actividades al aire libre"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Modelos de Dinosaurios Realistas: Varios modelos de dinosaurios exhibidos en todo el parque, muy realistas e impresionantes.",
+        "Experiencias Interactivas: Participa en excavaciones arqueológicas, eclosión de huevos de dinosaurio y otras actividades interactivas.",
+        "Valor Educativo: Perfecto para que los niños aprendan sobre dinosaurios, combinando educación con entretenimiento.",
+        "Ubicación Privilegiada: Ubicado en Orizaba con transporte conveniente y muchas atracciones cercanas."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "Descubre la ruta ideal para explorar Expo Parque de los Dinosaurios y experimentar el encanto del mundo prehistórico.",
+    "steps": [
+      "Llega a la entrada del parque por la mañana y obtén un mapa y guía para visitantes en el centro de visitantes.",
+      "Visita el área de exhibición principal y admira varios modelos grandes y realistas de dinosaurios.",
+      "Participa en la zona de experiencia interactiva, intenta excavaciones arqueológicas y cuestionarios de conocimiento sobre dinosaurios.",
+      "Come en el área de descanso dentro del parque, luego continúa visitando otras áreas de exhibición o compra recuerdos."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Prepara protección solar, la mayoría de las áreas en el parque son al aire libre.",
+      "Usa zapatos cómodos para caminatas largas.",
+      "Trae una cámara para capturar maravillosos modelos de dinosaurios y momentos interactivos."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de Expo Parque de los Dinosaurios",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Educativa",
+        "content": "Expo Parque de los Dinosaurios es un parque temático que combina entretenimiento con educación. A través de modelos realistas de dinosaurios y exhibiciones interactivas, los visitantes especialmente los niños pueden aprender sobre la historia y el conocimiento de la era de los dinosaurios."
+      },
+      {
+        "id": "culture",
+        "title": "Experiencias Interactivas",
+        "content": "El parque ofrece varios programas de experiencia interactiva, incluyendo excavaciones arqueológicas simuladas, experiencias de eclosión de huevos de dinosaurio, etc., permitiendo a los visitantes experimentar personalmente la diversión de explorar el mundo prehistórico."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Pasea entre modelos de dinosaurios realistas y siente la impresión del mundo prehistórico. Esta es una experiencia de excursión familiar inolvidable, que te permite a ti y a tus hijos acercarte al mundo de los dinosaurios."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Expo Parque de los Dinosaurios",
+    "type": "Tipo de Atracción",
+    "typeValue": "Parque Temático",
+    "country": "País",
+    "countryValue": "México",
+    "city": "Ciudad",
+    "cityValue": "Orizaba, Veracruz",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., México",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "VW46+WV Orizaba, Veracruz, México"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Horario del Parque",
+    "outdoorTime": "Jueves a domingo: 10:00–22:00",
+    "lighthouse": "Lunes a miércoles",
+    "summer": "Cerrado",
+    "summerTime": "Cerrado todos los lunes, martes, miércoles",
+    "winter": "Mejor Época para Visitar",
+    "winterTime": "Visitas por la tarde recomendadas, clima más fresco",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente de apertura antes de visitar",
+    "tip": "Abierto de jueves a domingo, por favor planifica tu viaje en consecuencia"
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "outdoor": "Entradas de Adulto",
+    "outdoorPrice": "Consultar en sitio",
+    "lighthouse": "Entradas de Niño",
+    "adults": "Entradas de Estudiante",
+    "adultsPrice": "Consultar en sitio",
+    "students": "Entradas de Grupo",
+    "studentsPrice": "Descuentos disponibles",
+    "children": "Recomendaciones",
+    "childrenPrice": "La compra de entradas en línea puede tener descuentos",
+    "card": "Servicios Adicionales",
+    "cardPrice": "Recuerdos con tema de dinosaurios disponibles"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto de Orizaba. Desde allí, toma un autobús o taxi al parque.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "El parque está ubicado en Orizaba. Usa navegación y busca estacionamiento cercano.",
+    "bus": "Transporte Público",
+    "busDesc": "Toma transporte público a Orizaba, luego toma un taxi o autobús local al parque.",
+    "intercity": "Transporte Local",
+    "intercityDesc": "Desde el centro de Orizaba, toma un taxi o autobús local al parque.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "Taxis o manejar recomendado, transporte conveniente alrededor del parque.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "Expo Parque de los Dinosaurios es un excelente lugar para experimentar el encanto del mundo prehistórico, visitas por la tarde recomendadas."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto de Expo Parque de los Dinosaurios",
+    "captions": [
+      "Vista panorámica del parque",
+      "Modelos de dinosaurios",
+      "Exhibiciones interactivas",
+      "Paisaje del parque",
+      "Estatuas de dinosaurios",
+      "Paisajes temáticos",
+      "Diversión familiar",
+      "Mundo de dinosaurios",
+      "Ambiente del parque",
+      "Exhibiciones destacadas",
+      "Conocimiento de dinosaurios",
+      "Vista completa del parque",
+      "Detalles de modelos",
+      "Decoraciones temáticas",
+      "Instalaciones de entretenimiento",
+      "Paisajes del parque",
+      "Tema de dinosaurios"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Un lugar divertido y educativo. Los modelos de dinosaurios son muy realistas, a los niños les encanta, muy recomendable para todos los visitantes familiares."
+      },
+      {
+        "name": "María Elena",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "Parque temático asombroso. Los modelos de dinosaurios son muy realistas, las experiencias interactivas son divertidas, un lugar imprescindible en Orizaba."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Lugar muy interesante para aprender sobre el conocimiento de los dinosaurios. Visitas por la tarde recomendadas cuando el clima es más fresco."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Perfecto para excursiones familiares. Los modelos de dinosaurios son impresionantes, los programas interactivos son divertidos, definitivamente vale la pena experimentarlo."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Experiencia al aire libre interesante. Puedes ver modelos de dinosaurios de cerca, trae protección solar."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Gema escondida de Orizaba. Expo Parque de los Dinosaurios es el favorito de los niños, definitivamente trae a la familia para experimentarlo."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Experiencia inolvidable. Los modelos de dinosaurios son muy realistas, los niños aprendieron mucho, muy vale la pena visitar."
+      },
+      {
+        "name": "Carlos Rivera",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Excelente lugar para excursiones familiares. El tema de dinosaurios es muy interesante, permite suficiente tiempo para disfrutar de todos los programas."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., México",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Expo Parque de los Dinosaurios. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Secretaría de Turismo de México",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretaría de Turismo del Gobierno Federal",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "secturver": {
+        "name": "Secretaría de Turismo de Veracruz",
+        "url": "https://veracruz.mx/"
+      },
+      "orizaba": {
+        "name": "Ayuntamiento de Orizaba",
+        "url": "https://www.orizaba.gob.mx/"
+      },
+      "orizabatravel": {
+        "name": "Guía Oficial de Turismo de Orizaba Pueblo Mágico",
+        "url": "https://www.orizaba.travel/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "officialManagement": {
+      "title": "Acerca de Expo Parque de los Dinosaurios",
+      "text": "Expo Parque de los Dinosaurios es un famoso parque temático en Orizaba, con modelos de dinosaurios realistas y ricas experiencias interactivas, una opción ideal para excursiones familiares."
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "historyTimeline": {
+    "title": "Cronología del Desarrollo del Parque",
+    "items": [
+      {
+        "year": "Etapa Inicial",
+        "title": "Fundación del Parque",
+        "plaque": "Parque Temático (Exhibición de Dinosaurios)",
+        "description": "Se estableció Expo Parque de los Dinosaurios para proporcionar a los visitantes lugares de entretenimiento para entender el mundo de los dinosaurios. El parque inicialmente tenía modelos básicos de dinosaurios y instalaciones de exhibición simples."
+      },
+      {
+        "year": "Período de Desarrollo",
+        "title": "Mejora de Instalaciones",
+        "plaque": "Experiencias Interactivas (Entretenimiento Educativo)",
+        "description": "El parque se desarrolló continuamente, agregando más modelos realistas de dinosaurios, zonas de experiencia interactiva y programas educativos, convirtiéndose en una atracción turística importante en Orizaba."
+      },
+      {
+        "year": "Era Moderna",
+        "title": "Destino Turístico",
+        "plaque": "Entretenimiento Familiar (Hito Turístico)",
+        "description": "Con el desarrollo del turismo en Orizaba, Expo Parque de los Dinosaurios atrae más y más visitantes familiares con su tema único de dinosaurios y ricas experiencias interactivas."
+      },
+      {
+        "year": "Futuro",
+        "title": "Desarrollo Continuo",
+        "plaque": "Plan de Expansión (Planificación Futura)",
+        "description": "El parque planea continuar expandiéndose, agregando más modelos de dinosaurios y programas de experiencia interactiva, comprometiéndose a convertirse en uno de los lugares de entretenimiento familiar más populares en México."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puedes comenzar con el **área de exhibición principal** para admirar modelos realistas de dinosaurios; luego participa en actividades como excavaciones arqueológicas en la **zona de experiencia interactiva**; a continuación, come y descansa en el **área de descanso**; finalmente, selecciona recuerdos con tema de dinosaurios en la **tienda de recuerdos** para dejar maravillosos recuerdos."
+  }
+}
