@@ -1,0 +1,156 @@
+
+
+dinoparqueorizaba.om
+
+parquedinosauriosorizaba.com
+
+
+我们网站是
+parquedinosauriosorizaba.com
+检查下有没有错误
+
+
+单景点注册.com 域名推荐
+
+
+字段	填写内容
+国家 / 地区 *	墨西哥（Mexico）
+地址 *	Priv. de Circunvalación, Agrícola Moctezuma
+地址 2	（留空，无额外信息）
+城市 *	Orizaba
+省 / 自治区 / 直辖市 *	Veracruz（韦拉克鲁斯州）
+邮政编码 *	94345
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 lExpo Parque de los Dinosaurios 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、英文、西班牙文三语言
+
+lExpo Parque de los Dinosaurios
+4.7(9,856)
+主题公园
+
+Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., 墨西哥
+VW46+WV 奥里萨巴 墨西哥韦拉克鲁斯
+
+dan
+
+星期四
+10:00–22:00
+星期五
+10:00–22:00
+星期六
+10:00–22:00
+星期日
+10:00–22:00
+星期一
+休息
+星期二
+休息
+星期三
+休息
+
+https://maps.app.goo.gl/cqu6z9om3WepAKY47
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\墨西哥\expo-parque-de-los-dinosaurios\public\gallery\expo-parque-de-los-dinosaurios (1).jpg
+
+
+
+删除原先友情链接，新增以下友情链接
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+韦拉克鲁斯州旅游局
+https://veracruz.mx/
+
+奥里萨巴市政府
+https://www.orizaba.gob.mx/
+
+奥里萨巴魔法市镇官方旅游指南
+
+https://www.orizaba.travel/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/cqu6z9om3WepAKY47
+页面一共四个链接每一个都需要修改
+
+照片画廊
+精彩照片
+检查照片名称是否正确并修正
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/cqu6z9om3WepAKY47
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cqu6z9om3WepAKY47
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cqu6z9om3WepAKY47
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/cqu6z9om3WepAKY47
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+删除 探索更多 板块
+
+
+新增
+西班牙语
+
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/
+
+
+
+瓜达拉哈拉官方旅游局
+https://visitagdl.com/
+
+UNESCO 联合国教科文组织 - 玛利亚奇音乐非物质文化遗产档案
+https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575
+
+玛利亚奇：世界文化遗产数字展览
+https://artsandculture.google.com/story/mariachi-heritage-of-the-world/DwVxmtyVLG4Dbw
+
+
+
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+哈利斯科州旅游局
+https://secturjal.jalisco.gob.mx/inicio
+特乌奇特兰市政府政务与透明度
+https://teuchitlan.jalisco.gob.mx/inicio
+
+墨西哥国家人类学与历史研究所
+https://www.inah.gob.mx/
+INAH 官方考古遗址名录
+https://lugares.inah.gob.mx/es/zonas-arqueologicas/zonas/1715-teuchitl%C3%A1n-o-guachimontones.html
+
+
+
+
+
