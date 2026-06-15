@@ -116,9 +116,7 @@
     "groupsLabel": "Entradas de Grupo",
     "groupsPriceValue": "Descuentos disponibles",
     "tipsLabel": "Recomendaciones",
-    "tipsPriceValue": "La compra de entradas en línea puede tener descuentos",
-    "additionalLabel": "Servicios Adicionales",
-    "additionalPriceValue": "Recuerdos con tema de dinosaurios disponibles"
+    "tipsPriceValue": "La compra de entradas en línea puede tener descuentos"
   },
   "transport": {
     "title": "Transporte",

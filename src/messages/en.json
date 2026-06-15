@@ -116,9 +116,7 @@
     "groupsLabel": "Group Tickets",
     "groupsPriceValue": "Discounts available",
     "tipsLabel": "Recommendations",
-    "tipsPriceValue": "Online ticket purchase may have discounts",
-    "additionalLabel": "Additional Services",
-    "additionalPriceValue": "Dinosaur-themed souvenirs available"
+    "tipsPriceValue": "Online ticket purchase may have discounts"
   },
   "transport": {
     "title": "Transportation",

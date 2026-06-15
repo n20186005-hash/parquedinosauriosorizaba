@@ -116,9 +116,7 @@
     "groupsLabel": "团体票",
     "groupsPriceValue": "优惠可用",
     "tipsLabel": "建议",
-    "tipsPriceValue": "提前在线购票可能享有折扣",
-    "additionalLabel": "附加服务",
-    "additionalPriceValue": "可购买恐龙主题纪念品"
+    "tipsPriceValue": "提前在线购票可能享有折扣"
   },
   "transport": {
     "title": "交通方式",

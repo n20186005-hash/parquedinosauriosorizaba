@@ -67,21 +67,6 @@ export default function TicketsSection() {
             </div>
           </div>
         </div>
-
-        {/* Travel Pass */}
-        <div
-          className="mt-6 rounded-xl p-5 flex items-start gap-4"
-          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
-        >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
-            <rect x="2" y="5" width="20" height="14" rx="2"/>
-            <line x1="2" y1="10" x2="22" y2="10"/>
-          </svg>
-          <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('additionalLabel')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('additionalPriceValue')}</p>
-          </div>
-        </div>
       </div>
     </section>
   );
