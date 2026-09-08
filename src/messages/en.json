@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Expo Parque de los Dinosaurios | Dinosaur Theme Park",
-    "description": "Explore Expo Parque de los Dinosaurios in Orizaba, Veracruz, Mexico. Experience amazing dinosaur exhibits and interactive experiences."
+    "title": "Expo Parque de los Dinosaurios Orizaba | Tickets, Hours & Prices",
+    "description": "Find dinosaur park tickets, prices and opening hours in Orizaba, Veracruz (Mexico). Things to do with kids, how to get there and a complete visitor guide."
   },
   "header": {
     "brand": "Expo Dinosaur Park",
@@ -12,16 +12,26 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Expo Parque de los Dinosaurios",
+    "title": "Expo Parque de los Dinosaurios (Orizaba)",
     "subtitle": "Veracruz · Mexico",
     "rating": "4.7",
-    "reviewCount": "9,859",
+    "reviewCount": "9,919",
     "hours": "Theme Park",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "hoursCta": "Hours",
+    "pricesCta": "Tickets & Prices"
   },
   "intro": {
-    "title": "Explore Expo Parque de los Dinosaurios",
-    "description": "Expo Parque de los Dinosaurios is located in Orizaba, Veracruz, Mexico. It is an amazing theme park featuring realistic dinosaur models, interactive exhibits, and family-friendly entertainment facilities. Here, you can travel back to the Jurassic era and experience the charm of dinosaurs up close.",
+    "title": "About Expo Parque de los Dinosaurios",
+    "lead": "Welcome to **Expo Parque de los Dinosaurios**, widely recognized as **Parque de los Dinosaurios de Orizaba** (the Orizaba Dinosaur Park). Located in the heart of **Orizaba**, **Veracruz**, **Mexico**, this destination serves as a primary hub for travelers visiting the region and a favorite stop for family holidays.",
+    "locationChain": [
+      { "label": "Expo Parque de los Dinosaurios" },
+      { "label": "Orizaba", "url": "https://www.orizaba.travel/" },
+      { "label": "Veracruz", "url": "https://veracruz.mx/" },
+      { "label": "Mexico", "url": "https://visitmexico.com/" }
+    ],
+    "landmarkCluster": "When visiting **Expo Parque de los Dinosaurios**, you can easily explore surrounding historical landmarks and points of interest, including the adjacent **Parque de las Sonrisas** and the city landmark **Teleférico de Orizaba**.",
+    "description": "Expo Parque de los Dinosaurios is located in Orizaba, Veracruz, Mexico. It is an amazing theme park featuring realistic dinosaur models, interactive exhibits, and family-friendly entertainment facilities. Here, you can travel back to the Jurassic era and experience the charm of dinosaurs up close. If you are looking for things to do with kids in Orizaba or across Veracruz, this dinosaur park is one of the best-recognised family options in the region; before you set off, check ticket prices, opening hours and directions in the sections of this guide.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -121,7 +131,7 @@
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "The nearest major airport is Veracruz International Airport (Aeropuerto Internacional General Heriberto Jara, Code: VER), about 1.5 to 2 hours drive from Orizaba. Upon arrival, you can rent a car or take a long-distance bus (such as ADO bus) to Orizaba city, then take a taxi to the park.",
+    "airportDesc": "The nearest major airport is Veracruz International Airport (Aeropuerto Internacional General Heriberto Jara, Code: VER), about 1.5 to 2 hours drive from Orizaba. Upon arrival, you can rent a car or take a long-distance intercity bus to Orizaba city, then take a taxi to the park.",
     "selfDrive": "Driving",
     "selfDriveDesc": "The park is located in Orizaba. Use navigation and check for parking nearby.",
     "bus": "Public Transport",
@@ -214,9 +224,109 @@
     ]
   },
   "mapSection": {
-    "title": "Location & Map",
+    "title": "Location & How to Visit Expo Parque de los Dinosaurios in Orizaba",
     "subtitle": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., Mexico",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "howToVisit": "The park lies along Priv. de Circunvalación in the Agrícola Moctezuma district. From central Orizaba you can reach it by taxi or local bus; if you drive, follow your navigation and use the parking area near the main entrance (Casavegas access).",
+    "officialNote": "For official updates and regional tourism information, visit:",
+    "officialLinkName": "Orizaba Magical Town Official Tourism Portal"
+  },
+  "landmarks": {
+    "title": "Landmarks & Attractions Around Parque de los Dinosaurios",
+    "intro": "When visiting **Expo Parque de los Dinosaurios**, travelers can easily explore surrounding historical landmarks and points of interest, including the adjacent **Parque de las Sonrisas** and the city's iconic **Teleférico de Orizaba**.",
+    "items": [
+      {
+        "name": "Parque de las Sonrisas",
+        "desc": "A family-friendly playground next to the dinosaur park with miniature city-themed play areas, ideal for younger children.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Parque+de+las+Sonrisas+Orizaba"
+      },
+      {
+        "name": "Eco parque Cerro de la Escamela",
+        "desc": "A hillside ecological park along Circunvalación with children's play areas and woodland trails.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Eco+parque+Cerro+de+la+Escamela+Orizaba"
+      },
+      {
+        "name": "Teleférico de Orizaba",
+        "desc": "Orizaba's landmark cable car that climbs to Cerro del Borrego for sweeping views over the city.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Telef%C3%A9rico+de+Orizaba"
+      },
+      {
+        "name": "Palacio de Hierro",
+        "desc": "An iconic cast-iron historic building in the city centre, easy to combine with your visit to the dinosaur park.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Palacio+de+Hierro+Orizaba"
+      }
+    ],
+    "viewMaps": "View on Google Maps"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about Expo Parque de los Dinosaurios (Orizaba Dinosaur Park), answered.",
+    "items": [
+      {
+        "q": "Where is Expo Parque de los Dinosaurios located?",
+        "a": "Expo Parque de los Dinosaurios is located in Orizaba, Veracruz, Mexico, at Priv. de Circunvalación, Colonia Agrícola Moctezuma, 94345."
+      },
+      {
+        "q": "What are the opening hours of the dinosaur park?",
+        "a": "The park is generally open Thursday to Sunday from 10:00 to 22:00 and closed Monday to Wednesday; holiday schedules may differ. Please confirm the latest hours before your visit."
+      },
+      {
+        "q": "How much does it cost to enter the Dinosaur Park in Orizaba?",
+        "a": "Admission rules may change with the season or events. According to Orizaba's official tourism guide, local residents enter free with a valid official ID, while other visitors typically pay an admission fee (about MXN 150, often including neighbouring attractions such as Casavegas and Parque de las Sonrisas). Please confirm current prices on site."
+      },
+      {
+        "q": "What can I see at Expo Parque de los Dinosaurios?",
+        "a": "The park displays large, lifelike reproductions of Jurassic dinosaurs created by different artists, including the Tyrannosaurus rex, Diplodocus, Spinosaurus and Triceratops, with educational information next to each model."
+      },
+      {
+        "q": "Is Expo Parque de los Dinosaurios suitable for children and families?",
+        "a": "Yes. The park is designed for family outings and combines fun with education, making it very popular with children and school groups."
+      },
+      {
+        "q": "How do I get to the dinosaur park in Orizaba?",
+        "a": "The nearest major airport is Veracruz International Airport (VER), about 1.5 to 2 hours away; from there take a long-distance intercity bus to Orizaba and then a short taxi ride. From central Orizaba, taxis and local buses reach the park easily, and driving with navigation also works well."
+      },
+      {
+        "q": "What attractions are near Expo Parque de los Dinosaurios?",
+        "a": "Right next to the park is Parque de las Sonrisas, and the Eco parque Cerro de la Escamela is close by. City highlights such as the Teleférico de Orizaba (cable car to Cerro del Borrego) and the Palacio de Hierro are also easy to combine with your visit."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "This page is an independent third-party travel guide. It compiles information from Orizaba's official municipal tourism channels, Mexican national and federal tourism authorities, and public data on Google Maps. Please verify opening hours and admission details through official channels before your visit.",
+    "items": [
+      {
+        "name": "Orizaba Magical Town Official Tourism Guide - Dinosaur Park",
+        "desc": "Official description, opening hours and admission for Parque de los Dinosaurios",
+        "url": "https://www.orizaba.travel/parque-dinosaurios/"
+      },
+      {
+        "name": "Orizaba City Government (Ayuntamiento de Orizaba)",
+        "desc": "Official website of Orizaba city government",
+        "url": "https://www.orizaba.gob.mx/"
+      },
+      {
+        "name": "Visit Mexico - National Tourism Board",
+        "desc": "Mexico's national tourism promotion platform",
+        "url": "https://visitmexico.com/"
+      },
+      {
+        "name": "SECTUR - Mexico's Federal Tourism Secretariat",
+        "desc": "Official website of Mexico's federal tourism secretariat",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "Veracruz State Tourism Portal",
+        "desc": "Official tourism information for the state of Veracruz",
+        "url": "https://veracruz.mx/"
+      },
+      {
+        "name": "Google Maps listing & visitor reviews",
+        "desc": "Ratings, photos and the latest visitor reviews of the attraction",
+        "url": "https://maps.app.goo.gl/cqu6z9om3WepAKY47"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Expo Parque de los Dinosaurios. All rights reserved.",
@@ -247,6 +357,7 @@
       }
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "All images displayed on this website are the property of their respective photographers, and all rights remain with the original photographers.",
     "officialManagement": {
       "title": "About Expo Parque de los Dinosaurios",
       "text": "Expo Parque de los Dinosaurios is a famous theme park in Orizaba, featuring realistic dinosaur models and rich interactive experiences, an ideal choice for family outings. The park is managed by the Orizaba City Government (Ayuntamiento de Orizaba)."
@@ -266,7 +377,7 @@
       },
       {
         "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps, location data and visitor ratings) and Google Analytics (for traffic analysis). These services have their own privacy policies. All images displayed on this website are the property of their respective photographers."
       },
       {
         "heading": "4. Your Rights",
@@ -292,7 +403,7 @@
       },
       {
         "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "content": "The design and original content of this website are protected by copyright. All images displayed on this website are the property of their respective photographers, and all rights remain with the original photographers. The use of Google Maps data complies with Google's terms of service."
       },
       {
         "heading": "5. Limitation of Liability",
@@ -346,32 +457,266 @@
     "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
   },
-  "historyTimeline": {
-    "title": "Park Development Timeline",
+  "weather": {
+    "title": "Live Weather & Multi-Day Forecast",
+    "subtitle": "Current conditions and a multi-day outlook for Expo Parque de los Dinosaurios, Orizaba - glance before you go to decide whether to carry an umbrella.",
+    "updated": "Updated",
+    "now": "Now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "windDir": "Dir.",
+    "precip": "Precipitation",
+    "precipProb": "Rain probability",
+    "todayHighLow": "Today",
+    "days": "Outlook",
+    "umbrellaQ": "Do you need an umbrella today?",
+    "umbrella": {
+      "likely": "Rain is quite likely - bring an umbrella.",
+      "possible": "A brief shower is possible - a foldable umbrella is a safe bet.",
+      "unlikely": "Low chance of rain today - an umbrella is probably unnecessary."
+    },
+    "unavailable": "Weather info is temporarily unavailable. Please try again later.",
+    "code": {
+      "clear": "Clear",
+      "partly": "Partly cloudy",
+      "cloudy": "Cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Showers",
+      "thunder": "Thunderstorms"
+    },
+    "tags": {
+      "risk": "Risk alerts",
+      "outfit": "What to wear",
+      "play": "Plan your visit",
+      "items": "Pack these"
+    },
+    "todayQuick": "Today at a glance",
+    "uv": "UV index",
+    "noRisk": "No particular risks right now - you can visit at your normal pace.",
+    "calm": "Today looks calm, so your usual preparations are enough.",
+    "advice": {
+      "outfit": {
+        "rainLikely": "Rain is quite likely, so carry an umbrella when you go out.",
+        "rainPossible": "A passing shower is possible, so a compact umbrella is a safe bet.",
+        "rainNow": "It is raining lightly and surfaces are slippery - watch your step.",
+        "rainy": "Stormy weather makes getting around harder - be ready for rain.",
+        "diurnal": "The day-to-night swing is wide, so take a light layer you can add or remove.",
+        "cold": "Temperatures are low - dress warmly and keep time outdoors short.",
+        "hot": "It is hot out, so go for light, breathable, quick-drying clothing.",
+        "windy": "Wind is picking up; hats may blow away and loose long skirts are not a good idea.",
+        "uv": "UV is strong today, so protect yourself from the sun."
+      },
+      "play": {
+        "sunny": "Clear skies are great for outdoor exploring, and the golden hour will be worth waiting for.",
+        "overcast": "The cloud layer gives soft light that is lovely for photos, and the lack of glare suits long outdoor walks.",
+        "rainLikely": "Rain is likely, so head first to indoor or covered areas; postpone hill hikes to another day.",
+        "rainNow": "In light rain, outdoor experiences lose some charm - start with the indoor science areas.",
+        "heavy": "Heavy rain makes outdoor play unwise; cable cars and high rides may pause, so museums in town are a good plan B.",
+        "thunder": "During storms, avoid heights and open high ground; water-based attractions are most likely closed.",
+        "hot": "Shorten your time outdoors and save uphill or long walks for early morning or dusk.",
+        "windy": "With stronger wind, some open-air rides may pause - follow park announcements.",
+        "gale": "In gale-force wind, open high-level and outdoor rides are most likely closed - follow the park's guidance."
+      },
+      "risk": {
+        "thunder": "Lightning risk: avoid heights, open water and sheltering under trees; move to a safe indoor spot.",
+        "heavyRain": "Heavy rain: steer clear of valleys, low-lying areas and flooded spots, and watch for slippery ground.",
+        "wind": "Strong wind: keep away from signs, temporary structures and tall trees, and watch for falling objects.",
+        "fog": "Poor visibility: mountain views will suffer and high-level rides such as cable cars may be adjusted or paused.",
+        "heat": "Hot weather: guard against heatstroke, limit midday outings and keep drinking water."
+      },
+      "gear": {
+        "umbrella": "Umbrella",
+        "raincoat": "Raincoat",
+        "extraShoes": "Spare shoes",
+        "sunscreen": "Sunscreen",
+        "sunglasses": "Sunglasses",
+        "hat": "Sun hat",
+        "water": "Drinking water",
+        "lightJacket": "Light jacket",
+        "warmCoat": "Warm coat & scarf"
+      }
+    }
+  },
+  "seasons": {
+    "title": "Seasonal Visit Strategy",
+    "subtitle": "Orizaba sits in a tropical highland: temperatures stay mild all year, so rain and crowd flow are what truly shape your visit. This overview follows long-term climate records from Mexico's national weather service (SMN/CONAGUA) and is a general guide only - always confirm with the live forecast above.",
+    "fieldWeather": "Typical weather",
+    "fieldCrowd": "Crowds & experience",
+    "fieldTip": "Planning tip",
     "items": [
       {
-        "year": "Early Establishment",
-        "title": "Park Foundation",
-        "plaque": "Theme Park (Dinosaur Exhibits)",
-        "description": "Expo Parque de los Dinosaurios was established to provide visitors with entertainment venues to understand the dinosaur world. The park initially had basic dinosaur models and simple exhibition facilities."
+        "season": "Late winter / early spring (Jan-Mar)",
+        "weather": "Mostly dry and sunny; mild 20-27°C by day, cooler mornings and evenings, occasional early fog.",
+        "crowd": "Quieter weekdays after the holiday season - great for slow visits and photos.",
+        "tip": "Add a light layer for mornings and evenings; daytime sun grows stronger, so use sunscreen."
       },
       {
-        "year": "Development Period",
-        "title": "Facility Improvement",
-        "plaque": "Interactive Experiences (Educational Entertainment)",
-        "description": "The park continuously developed, adding more realistic dinosaur models, interactive experience zones, and educational programs, becoming an important tourist attraction in Orizaba."
+        "season": "Spring / start of wet season (Apr-Jun)",
+        "weather": "Temperatures climb noticeably with stronger afternoon convection; from late May rain turns more frequent, mostly short thunderstorms.",
+        "crowd": "Numbers rise ahead of the summer break; weekends get lively.",
+        "tip": "Visit in the morning when possible; carry an umbrella and sunscreen and wear light, quick-drying clothing."
       },
       {
-        "year": "Modern Era",
-        "title": "Tourist Destination",
-        "plaque": "Family Entertainment (Tourism Landmark)",
-        "description": "With the development of tourism in Orizaba, Expo Parque de los Dinosaurios attracts more and more family visitors with its unique dinosaur theme and rich interactive experiences."
+        "season": "Summer / peak wet season (Jul-Sep)",
+        "weather": "The wettest months of the year, with frequent afternoon storms; the air feels fresh but the ground turns slippery.",
+        "crowd": "Peak family season; queues for kid-friendly attractions run longer.",
+        "tip": "Check the day's storm window, pack rain gear and spare shoes, and follow guidance during thunderstorms."
       },
       {
-        "year": "Future",
-        "title": "Continuous Development",
-        "plaque": "Expansion Plan (Future Planning)",
-        "description": "The park plans to continue expanding, adding more dinosaur models and interactive experience programs, committed to becoming one of the most popular family entertainment venues in Mexico."
+        "season": "Late autumn / early winter (Oct-Dec)",
+        "weather": "October stays humid; from November it turns drier, sunnier and pleasantly cool.",
+        "crowd": "Year-end festivals and Christmas lights draw bigger crowds.",
+        "tip": "Dress in layers; plan transport and parking early on festive dates."
+      }
+    ]
+  },
+  "tripPlan": {
+    "title": "Recommended Visit Plans",
+    "subtitle": "Pick a general route by how much time you have, then match an itinerary to your group for the right pace.",
+    "routes": {
+      "title": "General routes",
+      "halfDay": {
+        "label": "Half day (about 3-4 hours)",
+        "items": [
+          "Start along the main exhibition area, taking time with the largest dinosaur models.",
+          "Stop at the interactive zone for activities such as simulated fossil digs.",
+          "Rest at a refreshment area, browse the souvenir stalls, then leave at a relaxed pace."
+        ]
+      },
+      "fullDay": {
+        "label": "Full day (about 6-8 hours)",
+        "items": [
+          "Spend the morning in the main exhibition area while light is soft and crowds are small.",
+          "Have lunch in the park or at a nearby eatery, avoiding the midday sun.",
+          "Slow down in the afternoon for the interactive and family-play areas.",
+          "Revisit your favourite models before closing for final photos."
+        ]
+      }
+    },
+    "audience": {
+      "title": "Itineraries by travel group",
+      "items": [
+        {
+          "name": "Families with children",
+          "desc": "Centre the day on children's pace and curiosity: start with big, easy-to-recognise dinosaurs such as T. rex and Triceratops, then try the simulated digs, weaving short explanations between activities.",
+          "note": "Tip: pack water, wipes and sunscreen, and keep a light rain poncho handy for afternoon showers."
+        },
+        {
+          "name": "Photography & nature",
+          "desc": "Go at opening or just before closing, when light is softest and crowds are thinnest, for wide shots and model details; with extra time continue to the nearby hillside ecological park.",
+          "note": "Tip: use a wide lens for panoramas and a telephoto for details; respect site rules when using tripods at busy times."
+        },
+        {
+          "name": "Low-effort & accessible route",
+          "desc": "Walk the flat main loop at an easy pace and focus on the highlights of the main exhibition area; confirm accessible restrooms and wheelchair routes on site.",
+          "note": "Tip: split the visit into short legs with rest breaks; if someone has limited mobility, take a taxi to shorten walking distances."
+        }
+      ]
+    }
+  },
+  "services": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "A neutral, type-only overview with no specific business recommendations; availability and fees follow on-site notices.",
+    "items": [
+      {
+        "name": "Public restrooms (WC)",
+        "desc": "Public restrooms are usually available near the entrance and main exhibition area, most with family and accessible facilities; follow the on-site signs."
+      },
+      {
+        "name": "Parking",
+        "desc": "Public parking areas are found by the entrance and along Circunvalación. Spaces fill quickly on weekends and holidays - go off-peak or use public transport."
+      },
+      {
+        "name": "Food & drink",
+        "desc": "A range of food stalls, fast food and local restaurants are available around the park; you may also bring your own water and snacks where park rules allow."
+      },
+      {
+        "name": "Lodging",
+        "desc": "Orizaba offers budget hotels, business chains and guesthouses; for multi-day trips, staying near the city centre makes getting around easier."
+      },
+      {
+        "name": "Convenience stores & supermarkets",
+        "desc": "Convenience stores, pharmacies and supermarkets are scattered along the route and in town for daily items and emergency supplies."
+      },
+      {
+        "name": "Fuel & EV charging",
+        "desc": "Service stations line the main city roads, and some newer commercial and public parking areas include electric-vehicle chargers; check fuel or battery level before long drives."
+      }
+    ]
+  },
+  "science": {
+    "title": "Dinosaur Science Corner",
+    "subtitle": "Get to know the 'stars' of the exhibition: their real eras, sizes and ways of life.",
+    "items": [
+      {
+        "title": "Did they all live in the Jurassic?",
+        "content": "Not at all. Dinosaurs appeared in the Late Triassic about 230 million years ago and vanished at the end of the Cretaceous about 66 million years ago - roughly 165 million years of dominance. The exhibits actually cover several geological periods."
+      },
+      {
+        "title": "Tyrannosaurus rex: apex predator of the latest Cretaceous",
+        "content": "T. rex lived at the very end of the Cretaceous (about 68-66 million years ago); adults reached about 12 metres in length and around 7 tonnes, with one of the strongest bite forces among land animals."
+      },
+      {
+        "title": "Triceratops: the horned plant-eater",
+        "content": "Triceratops lived in the same era and on the same continent as T. rex, using its neck frill and three horns for defence. It was one of the most common herbivores of the latest Cretaceous."
+      },
+      {
+        "title": "Diplodocus: the Jurassic 'long-neck'",
+        "content": "Diplodocus lived in the Late Jurassic about 150 million years ago. With an enormous neck and tail it could reach over 25 metres in length, travelling in herds and feeding on high vegetation."
+      },
+      {
+        "title": "Spinosaurus: a fishing dinosaur that swam",
+        "content": "Spinosaurus lived in the mid-Cretaceous and carried a tall sail on its back. It is among the longest meat-eating dinosaurs known, and research suggests it hunted fish near the water's edge."
+      },
+      {
+        "title": "About the models: where do the replicas come from?",
+        "content": "The exhibits are lifelike models created by artists following scientific restoration: the skeleton is rebuilt from fossils first, then muscles and skin are added. They are educational displays, not real fossils."
+      }
+    ]
+  },
+  "responsibility": {
+    "title": "Education & Visitor Responsibility",
+    "subtitle": "Everyone doing their part keeps this open-air science classroom safe and pleasant for all visitors.",
+    "items": [
+      "Never climb, lean on or shake the exhibit models, and do not press against barriers - protect the displays and yourself.",
+      "Do not cross barriers into staged areas; children should stay under adult supervision.",
+      "In open-air areas, protect yourself from the sun and stay hydrated; during thunderstorms follow on-site guidance and shelter nearby.",
+      "Dispose of litter in bins or carry it out to help keep the park clean.",
+      "Do not write on or carve exhibits and facilities, and respect no-smoking signs where they apply.",
+      "Rules on pets, cycling and drones may vary - please follow the park's current notices."
+    ]
+  },
+  "historyTimeline": {
+    "title": "History & Significance of Expo Parque de los Dinosaurios",
+    "items": [
+      {
+        "year": "Pre-Hispanic & colonial era",
+        "title": "From Ahuilizapan to Orizaba",
+        "plaque": "Place-name origins (Nahuatl)",
+        "description": "The valley that hosts the dinosaur park belonged to the Nahuatl-speaking world before the arrival of the Spanish. The city name comes from the Nahuatl Ahuilizapan, meaning 'place of pleasant waters', later adapted into Spanish as Orizaba. The town grew along the historic royal road between Mexico City and Veracruz."
+      },
+      {
+        "year": "Modern era",
+        "title": "The Circunvalación recreation belt and the dinosaur zone",
+        "plaque": "Municipal park cluster (Circunvalación)",
+        "description": "In the 21st century, Orizaba's local government kept building public recreation areas along Priv. de Circunvalación, adding one themed park after another. Expo Parque de los Dinosaurios is the dinosaur-themed zone of this park belt, right next to family facilities such as Parque de las Sonrisas."
+      },
+      {
+        "year": "The exhibits",
+        "title": "Artists' lifelike dinosaurs",
+        "plaque": "Educational display (life-size models)",
+        "description": "The 'dinosaurs' here are not real fossils but life-size models created by artists following palaeontological restoration, from Tyrannosaurus rex and Triceratops to Spinosaurus and Diplodocus. Each exhibit carries an educational note, blending art and science."
+      },
+      {
+        "year": "Today",
+        "title": "A landmark of Orizaba, a Magical Town",
+        "plaque": "Family education (tourism landmark)",
+        "description": "After Orizaba earned Mexico's 'Pueblo Mágico' (Magical Town) title, its tourism facilities kept improving. Today the dinosaur park is a signature spot for family and science outings, joining icons such as the Teleférico de Orizaba and the Palacio de Hierro."
       }
     ],
     "guideTitle": "Visitor Guide Tip",

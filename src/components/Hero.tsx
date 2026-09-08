@@ -1,16 +1,17 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site-config';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/cqu6z9om3WepAKY47";
+  const mapsUrl = SITE.mapsShareUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/expo-parque-de-los-dinosaurios (1).jpg"
-          alt="Expo Parque de los Dinosaurios"
+          src="/gallery/expo-parque-de-los-dinosaurios-orizaba-1.jpg"
+          alt={`${SITE.fullName} - Main view in ${SITE.city}, ${SITE.country}`}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -53,6 +54,26 @@ export default function Hero() {
                 <circle cx="12" cy="10" r="3"/>
               </svg>
               <span className="text-white text-sm">{t('openMaps')}</span>
+            </a>
+            <a
+              href="#hours"
+              className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
+              <span className="text-white text-sm">{t('hoursCta')}</span>
+            </a>
+            <a
+              href="#tickets"
+              className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                <path d="M2 9a3 3 0 0 1 0 6v2h20v-2a3 3 0 0 1 0-6V7H2z"/>
+                <line x1="13" y1="7" x2="13" y2="17"/>
+              </svg>
+              <span className="text-white text-sm">{t('pricesCta')}</span>
             </a>
           </div>
         </div>

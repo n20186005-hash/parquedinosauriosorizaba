@@ -2,26 +2,14 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { SITE } from '@/lib/site-config';
 
-const photoFiles = [
-  'expo-parque-de-los-dinosaurios (1).jpg',
-  'expo-parque-de-los-dinosaurios (2).jpg',
-  'expo-parque-de-los-dinosaurios (3).jpg',
-  'expo-parque-de-los-dinosaurios (4).jpg',
-  'expo-parque-de-los-dinosaurios (5).jpg',
-  'expo-parque-de-los-dinosaurios (6).jpg',
-  'expo-parque-de-los-dinosaurios (7).jpg',
-  'expo-parque-de-los-dinosaurios (8).jpg',
-  'expo-parque-de-los-dinosaurios (9).jpg',
-  'expo-parque-de-los-dinosaurios (10).jpg',
-  'expo-parque-de-los-dinosaurios (11).jpg',
-  'expo-parque-de-los-dinosaurios (12).jpg',
-  'expo-parque-de-los-dinosaurios (13).jpg',
-  'expo-parque-de-los-dinosaurios (14).jpg',
-  'expo-parque-de-los-dinosaurios (15).jpg',
-  'expo-parque-de-los-dinosaurios (16).jpg',
-  'expo-parque-de-los-dinosaurios (17).jpg',
-];
+const GALLERY_COUNT = 17;
+
+const photoFiles = Array.from(
+  { length: GALLERY_COUNT },
+  (_, i) => `expo-parque-de-los-dinosaurios-orizaba-${i + 1}.jpg`
+);
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -31,7 +19,9 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Expo Parque de los Dinosaurios ${i + 1}`,
+    alt: captions?.[i]
+      ? `${captions[i]} - ${SITE.fullName}, ${SITE.city}`
+      : `${SITE.fullName} photo ${i + 1} in ${SITE.city}`,
   }));
 
   const visiblePhotos = photos;

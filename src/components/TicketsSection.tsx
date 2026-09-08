@@ -6,7 +6,11 @@ export default function TicketsSection() {
   const t = useTranslations('tickets');
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section
+      id="tickets"
+      className="section-padding"
+      style={{ background: 'var(--bg-secondary)', scrollMarginTop: '5rem' }}
+    >
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"

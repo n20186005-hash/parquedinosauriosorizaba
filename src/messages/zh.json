@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Expo Parque de los Dinosaurios | 恐龙主题公园",
-    "description": "探索墨西哥韦拉克鲁斯州奥里萨巴的 Expo Parque de los Dinosaurios（恐龙主题公园）。体验令人惊叹的恐龙展览和互动体验。"
+    "title": "奥里萨巴恐龙公园门票｜价格、开放时间与亲子游攻略",
+    "description": "奥里萨巴恐龙公园门票价格、开放时间与亲子游攻略：含怎么去、必看恐龙模型、天气与邻近景点，出行前先看这篇。"
   },
   "header": {
     "brand": "Expo Parque de los Dinosaurios",
@@ -12,16 +12,26 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Expo Parque de los Dinosaurios",
+    "title": "Expo Parque de los Dinosaurios（奥里萨巴）",
     "subtitle": "韦拉克鲁斯州 · 墨西哥",
     "rating": "4.7",
-    "reviewCount": "9,859",
+    "reviewCount": "9,919",
     "hours": "主题公园",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "hoursCta": "开放时间",
+    "pricesCta": "门票价格"
   },
   "intro": {
-    "title": "探索 Expo Parque de los Dinosaurios",
-    "description": "Expo Parque de los Dinosaurios 位于墨西哥韦拉克鲁斯州奥里萨巴。这是一个令人惊叹的主题公园，拥有逼真的恐龙模型、互动展览和适合全家游玩的娱乐设施。在这里，您可以穿越回侏罗纪时代，近距离感受恐龙的魅力。",
+    "title": "关于 Expo Parque de los Dinosaurios",
+    "lead": "欢迎来到 **Expo Parque de los Dinosaurios**——即广为人知的 **奥里萨巴恐龙公园（Parque de los Dinosaurios de Orizaba）**。它位于墨西哥韦拉克鲁斯州 **奥里萨巴（Orizaba）** 的城市腹地，是旅行者探索这座“魔法小镇”（Pueblo Mágico）时的核心目的地之一，也是墨西哥家庭出游的热门去处。",
+    "locationChain": [
+      { "label": "Expo Parque de los Dinosaurios" },
+      { "label": "奥里萨巴", "url": "https://www.orizaba.travel/" },
+      { "label": "韦拉克鲁斯州", "url": "https://veracruz.mx/" },
+      { "label": "墨西哥", "url": "https://visitmexico.com/" }
+    ],
+    "landmarkCluster": "游览 **Expo Parque de los Dinosaurios** 时，您可以轻松探索周边的历史地标与景点，其中包括相邻的 **微笑公园（Parque de las Sonrisas）** 与市内的地标项目 **奥里萨巴缆车（Teleférico de Orizaba）**。",
+    "description": "Expo Parque de los Dinosaurios 位于墨西哥韦拉克鲁斯州奥里萨巴。这是一个令人惊叹的主题公园，拥有逼真的恐龙模型、互动展览和适合全家游玩的娱乐设施。在这里，您可以穿越回侏罗纪时代，近距离感受恐龙的魅力。如果正在寻找奥里萨巴乃至韦拉克鲁斯适合带孩子玩的地方，这座恐龙公园是当地公认的亲子去处之一；出发前别忘了在本指南的对应章节查看门票价格、开放时间与交通路线。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -121,7 +131,7 @@
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "距离最近的主要机场是韦拉克鲁斯国际机场 (Aeropuerto Internacional General Heriberto Jara, 代码: VER)，距离奥里萨巴约 1.5 至 2 小时车程。抵达后可租车或乘坐长途大巴（如 ADO 巴士）前往奥里萨巴市，随后打车前往公园。",
+    "airportDesc": "距离最近的主要机场是韦拉克鲁斯国际机场 (Aeropuerto Internacional General Heriberto Jara, 代码: VER)，距离奥里萨巴约 1.5 至 2 小时车程。抵达后可租车或乘坐长途城际巴士前往奥里萨巴市，随后打车前往公园。",
     "selfDrive": "自驾前往",
     "selfDriveDesc": "公园位于奥里萨巴，建议使用导航前往。周边有停车场。",
     "bus": "公共交通",
@@ -214,9 +224,109 @@
     ]
   },
   "mapSection": {
-    "title": "地图位置",
+    "title": "Expo Parque de los Dinosaurios 位置与到访指南（奥里萨巴）",
     "subtitle": "Priv. de Circunvalación, Agrícola Moctezuma, 94345 Orizaba, Ver., 墨西哥",
-    "openMaps": "在 Google Maps 查看位置"
+    "openMaps": "在 Google Maps 查看位置",
+    "howToVisit": "恐龙公园位于阿格里科拉·莫克特苏马区（Agrícola Moctezuma）的环城路（Priv. de Circunvalación）沿线。从奥里萨巴市中心可乘出租车或当地公交前往；自驾建议使用导航，并按路牌指示抵达公园正门（Casavegas 入口）附近的停车场。",
+    "officialNote": "如需获取官方最新动态与区域旅游资讯，请访问：",
+    "officialLinkName": "奥里萨巴官方旅游门户（Orizaba Pueblo Mágico）"
+  },
+  "landmarks": {
+    "title": "Expo Parque de los Dinosaurios 周边景点与地标",
+    "intro": "当您游览 **Expo Parque de los Dinosaurios** 时，可以顺道探访周边的历史地标与景点，其中包括与公园同处一片区域的 **微笑公园（Parque de las Sonrisas）**，以及奥里萨巴市内极具代表性的体验 **奥里萨巴缆车（Teleférico de Orizaba）**。",
+    "items": [
+      {
+        "name": "微笑公园 Parque de las Sonrisas",
+        "desc": "紧邻恐龙公园的亲子主题乐园，设有模拟街区与游乐设施，适合低龄儿童游玩。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Parque+de+las+Sonrisas+Orizaba"
+      },
+      {
+        "name": "埃斯卡梅拉山生态公园 Eco parque Cerro de la Escamela",
+        "desc": "位于环城路沿线的山地生态公园，设有儿童游乐区，并可进入山林步道。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Eco+parque+Cerro+de+la+Escamela+Orizaba"
+      },
+      {
+        "name": "奥里萨巴缆车 Teleférico de Orizaba",
+        "desc": "奥里萨巴的城市名片，乘坐缆车上博雷戈山（Cerro del Borrego）可俯瞰整座城市。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Telef%C3%A9rico+de+Orizaba"
+      },
+      {
+        "name": "铁宫 Palacio de Hierro",
+        "desc": "市中心的标志性历史建筑，铸铁结构搭配古典立面广受游客喜爱，适合与恐龙公园组合游览。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Palacio+de+Hierro+Orizaba"
+      }
+    ],
+    "viewMaps": "在 Google 地图中查看"
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于 Expo Parque de los Dinosaurios（奥里萨巴恐龙公园）的高频问题与解答。",
+    "items": [
+      {
+        "q": "Expo Parque de los Dinosaurios 在哪里？",
+        "a": "Expo Parque de los Dinosaurios 位于墨西哥韦拉克鲁斯州奥里萨巴（Orizaba），地址为 Priv. de Circunvalación, Colonia Agrícola Moctezuma, 94345。"
+      },
+      {
+        "q": "恐龙公园的开放时间是什么？",
+        "a": "常规情况下公园于周四至周日 10:00–22:00 开放，周一至周三闭园；节假日营业安排可能调整，建议出行前通过官方渠道核实最新时间。"
+      },
+      {
+        "q": "奥里萨巴恐龙公园门票多少钱？",
+        "a": "入园政策可能随季节或活动调整。据奥里萨巴官方旅游指南介绍，持有有效证件的当地居民可免费入园，其他游客通常需购票（约 150 墨西哥比索，票价往往包含卡萨维加斯（Casavegas）与微笑公园等邻近景点）。建议在入园前确认最新票价。"
+      },
+      {
+        "q": "在恐龙公园里可以看到什么？",
+        "a": "公园展出多位艺术家创作的侏罗纪恐龙大型仿真模型，包括霸王龙、梁龙、棘龙与三角龙等，每座模型旁都配有科普介绍，寓教于乐。"
+      },
+      {
+        "q": "Expo Parque de los Dinosaurios 适合带孩子游玩吗？",
+        "a": "非常适合。公园以家庭亲子游客为主要对象，将娱乐与教育相结合，深受儿童和学校团体的欢迎。"
+      },
+      {
+        "q": "如何前往奥里萨巴的恐龙公园？",
+        "a": "距离最近的主要机场是韦拉克鲁斯国际机场（VER），车程约 1.5–2 小时；可先乘长途城际巴士抵达奥里萨巴再打车前往。从奥里萨巴市中心可乘出租车或当地公交到达，自驾使用导航亦可直达。"
+      },
+      {
+        "q": "恐龙公园附近还有哪些值得一去的景点？",
+        "a": "公园旁边就是微笑公园（Parque de las Sonrisas），附近还有埃斯卡梅拉山生态公园；市内热门的奥里萨巴缆车（上博雷戈山俯瞰全城）与铁宫（Palacio de Hierro）等也很方便与本次行程组合游览。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "资料来源",
+    "intro": "本页面为独立的第三方旅游资讯项目。内容依据奥里萨巴市官方旅游门户、当地政府公开资料、墨西哥国家及联邦旅游部门信息，以及 Google Maps 上的公开数据整理而成；请在出行前通过官方渠道核实最新开放时间与票价。",
+    "items": [
+      {
+        "name": "奥里萨巴官方旅游指南（Pueblo Mágico）— 恐龙公园",
+        "desc": "公园的官方介绍、开放时间与门票信息",
+        "url": "https://www.orizaba.travel/parque-dinosaurios/"
+      },
+      {
+        "name": "奥里萨巴市政府 Ayuntamiento de Orizaba",
+        "desc": "奥里萨巴市官方政府网站",
+        "url": "https://www.orizaba.gob.mx/"
+      },
+      {
+        "name": "Visit México 墨西哥国家旅游局",
+        "desc": "墨西哥国家旅游推广平台",
+        "url": "https://visitmexico.com/"
+      },
+      {
+        "name": "墨西哥联邦政府旅游部 SECTUR",
+        "desc": "墨西哥联邦政府旅游部官方网站",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "韦拉克鲁斯州旅游资讯",
+        "desc": "韦拉克鲁斯州旅游门户网站",
+        "url": "https://veracruz.mx/"
+      },
+      {
+        "name": "Google Maps 商家页面与游客评价",
+        "desc": "景点的评分、照片与最新评价来源",
+        "url": "https://maps.app.goo.gl/cqu6z9om3WepAKY47"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Expo Parque de los Dinosaurios. 保留所有权利。",
@@ -247,6 +357,7 @@
       }
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "imageCredit": "本网站所展示的所有图片产权及版权均归原摄影者所有。",
     "officialManagement": {
       "title": "关于 Expo Parque de los Dinosaurios",
       "text": "Expo Parque de los Dinosaurios 是奥里萨巴的著名主题公园，拥有逼真的恐龙模型和丰富的互动体验，是家庭出游的理想选择。该公园由奥里萨巴市政府（Ayuntamiento de Orizaba）管理。"
@@ -266,7 +377,7 @@
       },
       {
         "heading": "3. 第三方服务",
-        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图、位置数据与游客评分）和谷歌分析（用于流量分析）。这些服务均有各自的隐私政策。本网站所展示的所有图片产权及版权均归原摄影者所有。"
       },
       {
         "heading": "4. 您的权利",
@@ -292,7 +403,7 @@
       },
       {
         "heading": "4. 知识产权",
-        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+        "content": "本网站设计和原创内容受版权保护。本网站所展示的所有图片产权及版权均归原摄影者所有。Google 地图数据的使用符合 Google 的服务条款。"
       },
       {
         "heading": "5. 责任限制",
@@ -346,32 +457,266 @@
     "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
     "rejectAll": "拒绝一切"
   },
-  "historyTimeline": {
-    "title": "公园发展时间线",
+  "weather": {
+    "title": "实时天气与多日预报",
+    "subtitle": "Expo Parque de los Dinosaurios（奥里萨巴）所在位置的实时天气与未来多日预报，出门前扫一眼，就知道要不要带伞。",
+    "updated": "更新于",
+    "now": "现在",
+    "feelsLike": "体感",
+    "humidity": "湿度",
+    "wind": "风速",
+    "windDir": "风向",
+    "precip": "降水",
+    "precipProb": "降水概率",
+    "todayHighLow": "今日气温",
+    "days": "未来预报",
+    "umbrellaQ": "今天出门要带伞吗？",
+    "umbrella": {
+      "likely": "降雨可能性较高，建议带上雨伞。",
+      "possible": "午后可能有阵雨，备一把折叠伞更稳妥。",
+      "unlikely": "降雨概率较低，今天基本无需带伞。"
+    },
+    "unavailable": "天气信息暂时不可用，请稍后再试。",
+    "code": {
+      "clear": "晴",
+      "partly": "局部多云",
+      "cloudy": "多云",
+      "overcast": "阴",
+      "fog": "有雾",
+      "drizzle": "毛毛雨",
+      "rain": "有雨",
+      "snow": "有雪",
+      "showers": "阵雨",
+      "thunder": "雷雨"
+    },
+    "tags": {
+      "risk": "风险提醒",
+      "outfit": "出行穿搭",
+      "play": "游玩安排",
+      "items": "随身物品"
+    },
+    "todayQuick": "今日速览",
+    "uv": "紫外线",
+    "noRisk": "当前暂无特别风险，可按正常节奏出行。",
+    "calm": "今日天气平稳，常规准备即可轻松出游。",
+    "advice": {
+      "outfit": {
+        "rainLikely": "大概率会下雨，出门记得带伞。",
+        "rainPossible": "今天可能有阵雨，建议备一把折叠伞。",
+        "rainNow": "正下着小雨，路面湿滑，走路注意防滑。",
+        "rainy": "雷雨天出行不便，注意防雨。",
+        "diurnal": "昼夜温差较大，建议备一件外套，方便随时增减。",
+        "cold": "气温偏低，注意保暖，别在户外长时间停留。",
+        "hot": "气温偏高，建议穿轻薄、透气、速干的衣物。",
+        "windy": "风力偏大，帽子容易被吹落，尽量别穿宽松长裙。",
+        "uv": "紫外线较强，外出注意防晒。"
+      },
+      "play": {
+        "sunny": "天气晴好，适合户外游览，傍晚的霞光也更值得等一等。",
+        "overcast": "云层带来柔和光线，很适合拍照；没有暴晒，适合长时间户外慢逛。",
+        "rainLikely": "降水概率高，建议优先安排室内或带顶棚的区域，户外登高改期更稳妥。",
+        "rainNow": "小雨天露天体验会打折扣，可以先逛室内科普区。",
+        "heavy": "雨势较大，不建议户外游玩，缆车、滑道等高空项目可能临时停运，可改选市内博物馆等室内场所。",
+        "thunder": "雷雨期间请勿登高或停留在高处开阔处，水上类项目大概率关闭。",
+        "hot": "缩短户外停留时间，把爬坡、徒步等活动放到清晨或傍晚。",
+        "windy": "风力偏大，部分露天游乐设施可能临时停运，留意园区通知。",
+        "gale": "大风天气，户外高空与露天游乐项目大概率关闭，请按园区指引活动。"
+      },
+      "risk": {
+        "thunder": "谨防雷电：不要登高、靠近水体或在树下避雨，尽快到室内安全处躲避。",
+        "heavyRain": "降雨较强：请避开山谷、低洼与易积水路段，注意脚下湿滑。",
+        "wind": "大风天气：远离广告牌、临时搭建物与高大树木，注意高空坠物。",
+        "fog": "能见度较差：山区观景效果受影响，缆车等高空项目可能调整或停运。",
+        "heat": "高温天气：谨防中暑，减少正午外出，并及时补水。"
+      },
+      "gear": {
+        "umbrella": "雨伞",
+        "raincoat": "雨衣",
+        "extraShoes": "替换鞋袜",
+        "sunscreen": "防晒霜",
+        "sunglasses": "墨镜",
+        "hat": "遮阳帽",
+        "water": "饮用水",
+        "lightJacket": "薄外套",
+        "warmCoat": "厚外套与围巾"
+      }
+    }
+  },
+  "seasons": {
+    "title": "季度游览策略",
+    "subtitle": "奥里萨巴地处热带高原，全年温和、四季差异不明显，真正影响体验的是降水与客流节奏。下表依据墨西哥国家气象局（SMN/CONAGUA）长期气候资料归纳的季节规律整理，仅作一般性参考，出行前请结合上方的实时天气模块确认。",
+    "fieldWeather": "天气特点",
+    "fieldCrowd": "客流与体验",
+    "fieldTip": "出行建议",
     "items": [
       {
-        "year": "建立初期",
-        "title": "公园奠基",
-        "plaque": "主题公园（恐龙展览）",
-        "description": "Expo Parque de los Dinosaurios 建立，旨在为游客提供了解恐龙世界的娱乐场所。公园最初拥有基础的恐龙模型和简单的展览设施。"
+        "season": "冬末春初（1—3月）",
+        "weather": "相对干燥晴朗，白天气温舒适（约20–27℃），早晚偏凉，清晨偶有薄雾。",
+        "crowd": "节后游客回落，工作日较安静，适合慢游与拍照。",
+        "tip": "早晚加一件薄外套；白天日照渐强，注意防晒补水。"
       },
       {
-        "year": "发展期",
-        "title": "设施完善",
-        "plaque": "互动体验（教育娱乐）",
-        "description": "公园不断发展，增加了更多逼真的恐龙模型、互动体验区和教育项目，成为了奥里萨巴重要的旅游景点。"
+        "season": "春季雨季开端（4—6月）",
+        "weather": "气温明显回升，午后对流增强；5月底起降雨渐多，多为短时雷阵雨。",
+        "crowd": "春假与暑期前客流回升，周末园区较热闹。",
+        "tip": "建议上午入园；随身带伞与防晒，穿轻便、快干的衣物与鞋。"
+      },
+      {
+        "season": "夏季雨季高峰（7—9月）",
+        "weather": "全年降水最集中的时段，午后雷阵雨频繁，雨后空气清新但地面湿滑。",
+        "crowd": "暑期家庭客流高峰，亲子项目排队时间略长。",
+        "tip": "提前看当日雷雨时段，备好雨具与替换鞋袜；雷暴时请听从指引就近避雨。"
+      },
+      {
+        "season": "秋末冬初（10—12月）",
+        "weather": "10月仍偏湿，11月后转为干爽晴朗，进入一年中最舒适的游览窗口。",
+        "crowd": "年末节庆与圣诞灯饰季客流明显增多，热闹但拥挤。",
+        "tip": "天气多变可分层穿衣；节庆期间提前规划交通与停车。"
+      }
+    ]
+  },
+  "tripPlan": {
+    "title": "推荐游览方案",
+    "subtitle": "先按可用时间挑选“通用路线”，再按出行人群对号入座，找到适合自己的节奏。",
+    "routes": {
+      "title": "通用路线",
+      "halfDay": {
+        "label": "半日游（约3—4小时）",
+        "items": [
+          "入园后先沿主展区慢逛，重点欣赏几组大型恐龙模型。",
+          "在互动体验区停留，参加模拟考古等受儿童欢迎的项目。",
+          "途经休息区补水小憩，逛完纪念品区后从容离园。"
+        ]
+      },
+      "fullDay": {
+        "label": "全日游（约6—8小时）",
+        "items": [
+          "上午光线好、游客少，以主展区拍照与讲解为主。",
+          "中午在园内或邻近餐饮区用餐，避开正午暴晒。",
+          "下午放慢节奏，玩互动体验与亲子游乐区域。",
+          "日落前重逛最喜欢的展区补拍，结束后离园。"
+        ]
+      }
+    },
+    "audience": {
+      "title": "按人群定制路线",
+      "items": [
+        {
+          "name": "亲子家庭线",
+          "desc": "以儿童的步速与兴趣为中心：先看体型大、辨识度高的霸王龙和三角龙，再玩模拟考古，把科普讲解穿插在游玩间隙。",
+          "note": "小贴士：备足饮用水、湿巾与防晒；下午常有阵雨，书包里放一件轻便雨衣。"
+        },
+        {
+          "name": "摄影自然线",
+          "desc": "清晨开园或傍晚闭园前光线最柔和、人流最少，适合全景与模型细节拍摄；时间充裕可顺路取景邻近的生态山地公园。",
+          "note": "小贴士：广角拍全景、长焦抓细节；使用三脚架请留意现场规则与高峰人流。"
+        },
+        {
+          "name": "低体力·无障碍慢游线",
+          "desc": "沿主环路平坦路段慢行，优先游览主展区精华段落；可提前确认现场的无障碍卫生间与轮椅通道。",
+          "note": "小贴士：把参观拆成两三段，中途多休息；有行动不便者同行时建议打车往返，缩短步行距离。"
+        }
+      ]
+    }
+  },
+  "services": {
+    "title": "访客服务与周边设施",
+    "subtitle": "本板块仅按设施类型做中立概述，不含任何具体商户推荐；开放与收费情况请以现场公告为准。",
+    "items": [
+      {
+        "name": "公共卫生间（WC）",
+        "desc": "园内主展区与入口附近通常设有公共卫生间，多数配有家庭及无障碍设施，位置以现场指示牌为准。"
+      },
+      {
+        "name": "停车",
+        "desc": "公园入口及环城路沿线设有公共停车区。周末与节假日车位紧张，建议错峰前往或改乘公共交通。"
+      },
+      {
+        "name": "餐饮",
+        "desc": "园区内外提供流动小吃、快餐与本地餐馆等不同类型选择；也可自带饮用水与轻食（以园区规定为准）。"
+      },
+      {
+        "name": "住宿",
+        "desc": "奥里萨巴市区提供经济型酒店、商务连锁与民宿等多元住宿类型，多日行程建议就近市中心住宿以方便出行。"
+      },
+      {
+        "name": "商超与便利店",
+        "desc": "公园沿线及市区分布着便利店、药店与超市，可随时补充日用品、零食与应急物资。"
+      },
+      {
+        "name": "加油与充电",
+        "desc": "市区主要干道沿线设有加油站；部分新建商业及公共停车区配有电动汽车充电桩，长途自驾请提前确认油量或电量。"
+      }
+    ]
+  },
+  "science": {
+    "title": "恐龙科普课堂",
+    "subtitle": "看懂展览里的“大明星”：它们真实的生存年代、体型与生活方式。",
+    "items": [
+      {
+        "title": "它们都生活在“侏罗纪”吗？",
+        "content": "并非如此。恐龙约在2.3亿年前的三叠纪晚期出现，直到约6600万年前白垩纪末期灭绝，统治陆地约1.65亿年。展品其实涵盖了多个地质时期的恐龙。"
+      },
+      {
+        "title": "霸王龙：白垩纪末的顶级掠食者",
+        "content": "霸王龙（Tyrannosaurus rex）生活在白垩纪最末期（约6800万—6600万年前），成年体长约12米、重约7吨，咬合力在陆生动物中名列前茅。"
+      },
+      {
+        "title": "三角龙：带“盾牌”的植食卫士",
+        "content": "三角龙与霸王龙生活在同一时代、同一片大陆，靠头盾和头上的三只角抵御掠食者，是白垩纪末期常见的植食恐龙之一。"
+      },
+      {
+        "title": "梁龙：侏罗纪的“长脖子”",
+        "content": "梁龙（Diplodocus）生活在约1.5亿年前的侏罗纪晚期，颈尾极长、体长可达25米以上，成群活动并以高处植物为食。"
+      },
+      {
+        "title": "棘龙：会游泳的“渔夫”",
+        "content": "棘龙（Spinosaurus）生活于白垩纪中期，背部长有高大帆状结构，是已知最长的肉食性恐龙之一；研究认为它常在水边活动、以鱼类为食。"
+      },
+      {
+        "title": "展品科普：仿真模型从何而来？",
+        "content": "园内展品多为艺术家按古生物学的科学复原流程创作的仿真模型：先依化石复原骨架，再重建肌肉与体表。它们是科普展示，并非化石真品。"
+      }
+    ]
+  },
+  "responsibility": {
+    "title": "科普与访客责任",
+    "subtitle": "每个人都出一份力，才能让更多游客在安全、整洁的户外科普课堂里收获知识与快乐。",
+    "items": [
+      "请勿攀爬、倚靠或摇晃展品模型，也不要压靠护栏，避免损坏展品或发生意外。",
+      "请勿翻越隔离设施进入布展区域；儿童请在成人看护下游览。",
+      "户外游览注意防晒与补水；雷雨天气请听从现场指引就近避雨。",
+      "垃圾请投入垃圾桶或随身带走，共同维护园区环境。",
+      "请勿在展品、地面与设施上涂写刻划；设有禁烟标识的区域请勿吸烟。",
+      "关于宠物、骑行与航拍等管理规定因现场而异，请以园区公告为准。"
+    ]
+  },
+  "historyTimeline": {
+    "title": "Expo Parque de los Dinosaurios 的历史与意义",
+    "items": [
+      {
+        "year": "史前与殖民时期",
+        "title": "从 Ahuilizapan 到奥里萨巴",
+        "plaque": "地名渊源（纳瓦特尔语）",
+        "description": "恐龙公园所在的奥里萨巴谷地，在殖民者到来前属纳瓦语文化圈。地名源自纳瓦特尔语 Ahuilizapan，意为“欢快之水”，后经西班牙语演变为 Orizaba。这座城市自古扼守墨西哥城—韦拉克鲁斯的重要商路，是“皇道”上的著名驿站。"
       },
       {
         "year": "现代",
-        "title": "旅游胜地",
-        "plaque": "家庭娱乐（旅游地标）",
-        "description": "随着奥里萨巴旅游业的发展，Expo Parque de los Dinosaurios 凭借其独特的恐龙主题和丰富的互动体验，吸引了越来越多的家庭游客。"
+        "title": "环城游憩带与恐龙主题展区",
+        "plaque": "市政公园群（Circunvalación）",
+        "description": "进入21世纪，奥里萨巴市政持续沿环城路（Priv. de Circunvalación）打造公共游憩走廊，先后推出多个主题园区。Expo Parque de los Dinosaurios 正是这条环城公园带中的恐龙主题展区，紧邻微笑公园（Parque de las Sonrisas）等亲子设施。"
       },
       {
-        "year": "未来",
-        "title": "持续发展",
-        "plaque": "扩建计划（未来规划）",
-        "description": "公园计划继续扩建，增加更多恐龙模型和互动体验项目，致力于成为墨西哥最受欢迎的家庭娱乐场所之一。"
+        "year": "展品",
+        "title": "艺术家的“仿真恐龙”",
+        "plaque": "科普展览（等比例模型）",
+        "description": "园内的恐龙并非化石真品，而是多位艺术家按照古生物学复原方法创作的等比例仿真模型——从霸王龙、三角龙到棘龙、梁龙不一而足。每件展品旁配有科普说明，兼顾艺术美感与教育价值。"
+      },
+      {
+        "year": "今日",
+        "title": "奥里萨巴“魔法小镇”的城市名片",
+        "plaque": "亲子科普（旅游地标）",
+        "description": "奥里萨巴被授予墨西哥“魔法小镇”（Pueblo Mágico）称号后旅游设施不断完善。恐龙公园如今是当地亲子与科普游览的代表性去处，与奥里萨巴缆车、铁宫等景点共同构成城市名片。"
       }
     ],
     "guideTitle": "游客导览建议",

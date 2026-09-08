@@ -1,8 +1,10 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site-config';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/cqu6z9om3WepAKY47";
+  const mapsUrl = SITE.mapsShareUrl;
+  const tourismUrl = SITE.tourismUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -16,29 +18,33 @@ export default function MapEmbed() {
         <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
+        {/* 到访方式说明 */}
+        <p
+          className="text-base leading-relaxed mb-6 rounded-xl p-5"
+          style={{ background: 'var(--bg-tertiary)', color: 'var(--text-secondary)' }}
+        >
+          {t('howToVisit')}
+        </p>
+
         {/* Map */}
         <div
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Expo+Parque+de+los+Dinosaurios,+Orizaba,+Veracruz,+México&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Expo Parque de los Dinosaurios"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${SITE.fullName}, ${SITE.city}`}
           />
         </div>
 
         {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
             href={mapsUrl}
             target="_blank"
@@ -57,6 +63,20 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+
+          {/* 权威出站链接 */}
+          <p className="text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+            {t('officialNote')}{' '}
+            <a
+              href={tourismUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline font-medium"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('officialLinkName')}
+            </a>
+          </p>
         </div>
       </div>
     </section>

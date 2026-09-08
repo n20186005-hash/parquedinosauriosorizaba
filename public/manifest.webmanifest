@@ -1,0 +1,55 @@
+{
+  "name": "Expo Parque de los Dinosaurios (Orizaba) - Visitor Guide",
+  "short_name": "Dino Park Orizaba",
+  "description": "Official visitor guide to Expo Parque de los Dinosaurios in Orizaba, Veracruz, Mexico. Map location, opening hours, tickets and nearby attractions.",
+  "id": "/",
+  "start_url": "/es",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b4332",
+  "theme_color": "#1b4332",
+  "lang": "es",
+  "categories": ["travel", "lifestyle", "education"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Map & Directions",
+      "short_name": "Map",
+      "url": "/es/#map"
+    },
+    {
+      "name": "Gallery",
+      "url": "/es/#gallery"
+    },
+    {
+      "name": "FAQ",
+      "url": "/es/#faq"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Cloudflare Workers（静态资源站点）部署配置
+# 依赖 npm run build 生成的 ./out 静态产物
+# 部署：npx wrangler login && npm run deploy:cf
+
+name = "parque-dinosaurios-orizaba"
+
+compatibility_date = "2025-09-01"
+
+workers_dev = true
+
+[assets]
+directory = "./out"
+html_handling = "auto-trailing-slash"
+not_found_handling = "none"
