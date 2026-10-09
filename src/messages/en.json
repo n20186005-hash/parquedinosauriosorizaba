@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Expo Parque de los Dinosaurios Orizaba | Tickets, Hours & Prices",
-    "description": "Find dinosaur park tickets, prices and opening hours in Orizaba, Veracruz (Mexico). Things to do with kids, how to get there and a complete visitor guide."
+    "title": "Orizaba Dinosaur Park | Tickets, Prices & Hours",
+    "description": "Check prices, opening hours, location, photos and tips for visiting Expo Dinosaur Park in Orizaba, Veracruz. Plan your visit."
   },
   "header": {
     "brand": "Expo Dinosaur Park",
@@ -12,14 +12,21 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Expo Parque de los Dinosaurios (Orizaba)",
+    "title": "Expo Dinosaur Park in Orizaba: Your Visitor Guide",
     "subtitle": "Veracruz · Mexico",
     "rating": "4.7",
-    "reviewCount": "9,919",
+    "reviewCount": "9,936",
+    "googleLabel": "Google",
     "hours": "Theme Park",
     "openMaps": "View Location",
     "hoursCta": "Hours",
-    "pricesCta": "Tickets & Prices"
+    "pricesCta": "Tickets & Prices",
+    "quickHoursLabel": "Hours",
+    "quickHours": "Thu–Sun 10:00–22:00",
+    "quickPriceLabel": "Admission",
+    "quickPrice": "From $150 MXN · Locals free",
+    "quickLocationLabel": "Location",
+    "quickLocation": "Priv. de Circunvalación, Orizaba"
   },
   "intro": {
     "title": "About Expo Parque de los Dinosaurios",
@@ -117,16 +124,25 @@
     "bestTimeDesc": "Afternoon visits recommended, cooler weather"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "adultsLabel": "Adult Tickets",
-    "adultsPriceValue": "Inquire on-site",
-    "childrenLabel": "Child Tickets",
-    "studentsLabel": "Student Tickets",
-    "studentsPriceValue": "Inquire on-site",
-    "groupsLabel": "Group Tickets",
-    "groupsPriceValue": "Discounts available",
-    "tipsLabel": "Recommendations",
-    "tipsPriceValue": "Online ticket purchase may have discounts"
+    "title": "Prices & Tickets",
+    "intro": "Admission rules may vary with the season or events; please confirm the current price at the gate before your visit.",
+    "residentLabel": "Local residents",
+    "residentValue": "Free",
+    "residentNote": "With a valid official Orizaba ID",
+    "generalLabel": "General visitors",
+    "generalValue": "From $150 MXN",
+    "generalNote": "Approx.; often includes neighbouring attractions such as Casavegas and Parque de las Sonrisas",
+    "childrenLabel": "Children",
+    "childrenValue": "Confirm on-site",
+    "studentsLabel": "Students",
+    "studentsValue": "Discounts available",
+    "groupsLabel": "Groups & schools",
+    "groupsValue": "Special rate",
+    "includesTitle": "What's included?",
+    "includesText": "Admission generally covers the trail of life-size dinosaur models and the interactive zones; depending on the season it may include nearby attractions such as Casavegas and Parque de las Sonrisas. Confirm what is included when you buy.",
+    "verifyNote": "Prices and admission policies can change. Verify the current rate on site before your visit.",
+    "tipsLabel": "Tips",
+    "tipsValue": "Online or box-office purchases may have promotions; arrive early on weekends."
   },
   "transport": {
     "title": "Transportation",

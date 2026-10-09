@@ -12,14 +12,21 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Expo Parque de los Dinosaurios（奥里萨巴）",
+    "title": "奥里萨巴 Expo 恐龙公园：游览攻略",
     "subtitle": "韦拉克鲁斯州 · 墨西哥",
     "rating": "4.7",
-    "reviewCount": "9,919",
+    "reviewCount": "9,936",
+    "googleLabel": "Google",
     "hours": "主题公园",
     "openMaps": "查看位置",
     "hoursCta": "开放时间",
-    "pricesCta": "门票价格"
+    "pricesCta": "门票价格",
+    "quickHoursLabel": "开放时间",
+    "quickHours": "周四–周日 10:00–22:00",
+    "quickPriceLabel": "门票",
+    "quickPrice": "约 $150 墨西哥比索起 · 本地居民免费",
+    "quickLocationLabel": "位置",
+    "quickLocation": "Priv. de Circunvalación，奥里萨巴"
   },
   "intro": {
     "title": "关于 Expo Parque de los Dinosaurios",
@@ -117,16 +124,25 @@
     "bestTimeDesc": "建议下午前往，天气较为凉爽"
   },
   "tickets": {
-    "title": "门票信息",
-    "adultsLabel": "成人票",
-    "adultsPriceValue": "现场咨询",
-    "childrenLabel": "儿童票",
-    "studentsLabel": "学生票",
-    "studentsPriceValue": "现场咨询",
-    "groupsLabel": "团体票",
-    "groupsPriceValue": "优惠可用",
+    "title": "门票与价格",
+    "intro": "票价可能因季节或活动而调整，请于入园前在现场确认最新价格。",
+    "residentLabel": "本地居民",
+    "residentValue": "免费",
+    "residentNote": "凭奥里萨巴有效官方证件",
+    "generalLabel": "一般游客",
+    "generalValue": "约 $150 墨西哥比索起",
+    "generalNote": "约略价格；通常包含 Casavegas、笑颜公园等邻近景点",
+    "childrenLabel": "儿童",
+    "childrenValue": "现场确认",
+    "studentsLabel": "学生",
+    "studentsValue": "可享优惠",
+    "groupsLabel": "团体与学校",
+    "groupsValue": "专属价格",
+    "includesTitle": "门票包含什么？",
+    "includesText": "门票通常包含真实尺寸的恐龙模型步道与互动体验区；依季节可能包含 Casavegas、笑颜公园等邻近景点。购票时请确认所含项目。",
+    "verifyNote": "价格与入园政策可能变动，请于现场确认最新价格后再购票。",
     "tipsLabel": "建议",
-    "tipsPriceValue": "提前在线购票可能享有折扣"
+    "tipsValue": "线上或现场购票可能享有优惠；周末建议提早到达。"
   },
   "transport": {
     "title": "交通方式",

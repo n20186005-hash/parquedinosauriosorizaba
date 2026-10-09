@@ -4,7 +4,7 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 import { SITE } from '@/lib/site-config';
 
-const GALLERY_COUNT = 17;
+const GALLERY_COUNT = 19;
 
 const photoFiles = Array.from(
   { length: GALLERY_COUNT },

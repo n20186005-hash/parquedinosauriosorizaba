@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Expo Parque de los Dinosaurios Orizaba | Boletos, Horarios y Precios",
-    "description": "Boletos, horarios y precios del Expo Parque de los Dinosaurios en Orizaba, Veracruz. Atracciones para niños, cómo llegar y todo para planear tu visita."
+    "title": "Parque de los Dinosaurios Orizaba | Precios y Horarios",
+    "description": "Consulta precios, horarios, ubicación, fotos y consejos para visitar el Expo Parque de los Dinosaurios en Orizaba, Veracruz. Planea tu visita."
   },
   "header": {
     "brand": "Expo Parque de los Dinosaurios",
@@ -12,14 +12,21 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Expo Parque de los Dinosaurios (Orizaba)",
+    "title": "Expo Parque de los Dinosaurios en Orizaba: Guía para tu Visita",
     "subtitle": "Veracruz · México",
     "rating": "4.7",
-    "reviewCount": "9,919",
+    "reviewCount": "9,936",
+    "googleLabel": "Google",
     "hours": "Parque Temático",
     "openMaps": "Ver Ubicación",
     "hoursCta": "Horarios",
-    "pricesCta": "Boletos y Precios"
+    "pricesCta": "Boletos y Precios",
+    "quickHoursLabel": "Horario",
+    "quickHours": "Jue–Dom 10:00–22:00",
+    "quickPriceLabel": "Entrada",
+    "quickPrice": "Desde $150 MXN · Residentes gratis",
+    "quickLocationLabel": "Ubicación",
+    "quickLocation": "Priv. de Circunvalación, Orizaba"
   },
   "intro": {
     "title": "Acerca de Expo Parque de los Dinosaurios",
@@ -117,16 +124,25 @@
     "bestTimeDesc": "Visitas por la tarde recomendadas, clima más fresco"
   },
   "tickets": {
-    "title": "Información de Entradas",
-    "adultsLabel": "Entradas de Adulto",
-    "adultsPriceValue": "Consultar en sitio",
-    "childrenLabel": "Entradas de Niño",
-    "studentsLabel": "Entradas de Estudiante",
-    "studentsPriceValue": "Consultar en sitio",
-    "groupsLabel": "Entradas de Grupo",
-    "groupsPriceValue": "Descuentos disponibles",
+    "title": "Precios y Entradas",
+    "intro": "Las tarifas pueden variar según la temporada o los eventos; confirma el precio vigente en la entrada antes de tu visita.",
+    "residentLabel": "Residentes locales",
+    "residentValue": "Gratis",
+    "residentNote": "Con identificación oficial vigente de Orizaba",
+    "generalLabel": "Visitantes generales",
+    "generalValue": "Desde $150 MXN",
+    "generalNote": "Aprox.; suele incluir atracciones vecinas como Casavegas y el Parque de las Sonrisas",
+    "childrenLabel": "Niños",
+    "childrenValue": "Verifica en sitio",
+    "studentsLabel": "Estudiantes",
+    "studentsValue": "Descuentos disponibles",
+    "groupsLabel": "Grupos y escuelas",
+    "groupsValue": "Tarifa especial",
+    "includesTitle": "¿Qué incluye la entrada?",
+    "includesText": "El acceso generalmente incluye el recorrido por los modelos de dinosaurios a tamaño real y las zonas interactivas; según la temporada puede incluir atracciones cercanas como Casavegas y el Parque de las Sonrisas. Confirma lo incluido al comprar.",
+    "verifyNote": "Los precios y las políticas de acceso pueden cambiar. Verifica la tarifa vigente en el lugar antes de tu visita.",
     "tipsLabel": "Recomendaciones",
-    "tipsPriceValue": "La compra de entradas en línea puede tener descuentos"
+    "tipsValue": "La compra en línea o en taquilla puede tener promociones; llega temprano los fines de semana."
   },
   "transport": {
     "title": "Transporte",

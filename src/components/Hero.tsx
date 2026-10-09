@@ -28,11 +28,12 @@ export default function Hero() {
           </p>
 
           {/* Meta row */}
-          <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">
+          <div className="flex flex-wrap items-center gap-4 mb-6 animate-fade-in-up animation-delay-200">
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0b429" stroke="none">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
               </svg>
+              <span className="text-white text-xs uppercase tracking-wide opacity-80">{t('googleLabel')}</span>
               <span className="text-white text-sm font-medium">{t('rating')}</span>
               <span className="text-white/60 text-xs">({t('reviewCount')})</span>
             </div>
@@ -76,6 +77,13 @@ export default function Hero() {
               <span className="text-white text-sm">{t('pricesCta')}</span>
             </a>
           </div>
+
+          {/* Quick facts: hours / price / location (first-screen intent) */}
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 animate-fade-in-up animation-delay-300">
+            <QuickFact label={t('quickHoursLabel')} value={t('quickHours')} />
+            <QuickFact label={t('quickPriceLabel')} value={t('quickPrice')} />
+            <QuickFact label={t('quickLocationLabel')} value={t('quickLocation')} />
+          </div>
         </div>
       </div>
 
@@ -86,5 +94,17 @@ export default function Hero() {
         </svg>
       </div>
     </section>
+  );
+}
+
+function QuickFact({ label, value }: { label: string; value: string }) {
+  return (
+    <div
+      className="rounded-xl px-4 py-3 backdrop-blur-sm"
+      style={{ background: 'rgba(255,255,255,0.12)', border: '1px solid rgba(255,255,255,0.18)' }}
+    >
+      <p className="text-[11px] uppercase tracking-wide text-white/70 mb-1">{label}</p>
+      <p className="text-sm font-semibold text-white leading-snug">{value}</p>
+    </div>
   );
 }

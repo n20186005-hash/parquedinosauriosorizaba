@@ -57,7 +57,7 @@ export const SITE = {
 
   // 评分（Google Maps 最新）
   rating: '4.7',
-  reviewCount: '9,919',
+  reviewCount: '9,936',
 
   // 首图（OG/JSON-LD image）
   heroImagePath: '/gallery/expo-parque-de-los-dinosaurios-orizaba-1.jpg',

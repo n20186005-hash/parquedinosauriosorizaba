@@ -93,6 +93,9 @@ export default async function LocaleLayout({
 
   // ============ Schema.org 结构化数据 ============
   // 1) TouristAttraction：地理实体 + 坐标 + 图片 + @id（英语，面向知识图谱）
+  // 注意：页面展示的评分为 Google Maps 公开数据引用，不作为本站自行收集的
+  // AggregateRating 结构化数据输出，以符合 Google 结构化数据政策。
+  const selfUrlForSchema = `${SITE.baseUrl}/${locale}`;
   const touristAttractionSchema = {
     '@context': 'https://schema.org',
     '@type': ['TouristAttraction', 'ThemePark'],
@@ -104,14 +107,8 @@ export default async function LocaleLayout({
       SITE.shortNameEn,
     ],
     description: `Comprehensive visitor guide to ${SITE.fullName} in ${SITE.city}, ${SITE.stateProvince}, ${SITE.country}.`,
-    url: `${SITE.baseUrl}/es`,
+    url: selfUrlForSchema,
     image: [SITE.heroImageUrl],
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: SITE.rating,
-      reviewCount: Number(SITE.reviewCount.replace(/[^\d]/g, '')),
-      bestRating: '5',
-    },
     address: {
       '@type': 'PostalAddress',
       streetAddress: SITE.streetAddress,

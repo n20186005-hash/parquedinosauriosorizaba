@@ -8,6 +8,7 @@ import ScienceSection from '@/components/ScienceSection';
 import RouteSection from '@/components/RouteSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
+import TopicLinks from '@/components/TopicLinks';
 import TransportSection from '@/components/TransportSection';
 import WeatherSection from '@/components/WeatherSection';
 import SeasonsSection from '@/components/SeasonsSection';
@@ -44,6 +45,7 @@ export default async function HomePage({
         <RouteSection />
         <HoursSection />
         <TicketsSection />
+        <TopicLinks />
         <TransportSection />
         <WeatherSection />
         <SeasonsSection />
